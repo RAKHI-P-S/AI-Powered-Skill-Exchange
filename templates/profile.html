@@ -1,0 +1,534 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>My Profile | SkillExchange AI</title>
+
+    <style>
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+
+        body {
+            background: #f4f7fb;
+            color: #222;
+        }
+
+        /* NAVBAR */
+
+        .navbar {
+            height: 70px;
+            background: white;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0 7%;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+        }
+
+        .logo {
+            font-size: 24px;
+            font-weight: bold;
+            color: #2563eb;
+        }
+
+        .nav-links a {
+            text-decoration: none;
+            margin-left: 25px;
+            color: #555;
+            font-size: 14px;
+        }
+
+        .nav-links a:hover {
+            color: #2563eb;
+        }
+
+        /* MAIN */
+
+        .container {
+            width: 85%;
+            max-width: 1000px;
+            margin: 45px auto;
+        }
+
+        .profile-header {
+            background: white;
+            border-radius: 18px;
+            padding: 35px;
+            display: flex;
+            align-items: center;
+            gap: 25px;
+            box-shadow: 0 5px 25px rgba(0,0,0,0.08);
+        }
+
+        .avatar {
+            width: 90px;
+            height: 90px;
+            border-radius: 50%;
+            background: #2563eb;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 34px;
+            font-weight: bold;
+        }
+
+        .profile-header h1 {
+            font-size: 30px;
+            margin-bottom: 7px;
+        }
+
+        .email {
+            color: #777;
+            font-size: 14px;
+        }
+
+        /* INFORMATION */
+
+        .section {
+            background: white;
+            margin-top: 25px;
+            padding: 30px;
+            border-radius: 16px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.06);
+        }
+
+        .section h2 {
+            font-size: 20px;
+            margin-bottom: 22px;
+        }
+
+        .info-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+
+        .info {
+            background: #f8fafc;
+            padding: 18px;
+            border-radius: 10px;
+        }
+
+        .info-label {
+            font-size: 13px;
+            color: #777;
+            margin-bottom: 7px;
+        }
+
+        .info-value {
+            font-size: 16px;
+            font-weight: bold;
+        }
+
+        /* SKILLS */
+
+        .skills {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+
+        .skill-card {
+            padding: 25px;
+            border-radius: 14px;
+        }
+
+        .teach {
+            background: #eff6ff;
+            border: 1px solid #bfdbfe;
+        }
+
+        .learn {
+            background: #f5f3ff;
+            border: 1px solid #ddd6fe;
+        }
+
+        .skill-card h3 {
+            margin-bottom: 12px;
+            font-size: 17px;
+        }
+
+        .teach h3 {
+            color: #2563eb;
+        }
+
+        .learn h3 {
+            color: #7c3aed;
+        }
+
+        .skill-name {
+            font-size: 22px;
+            font-weight: bold;
+        }
+
+        /* BUTTON */
+
+        .actions {
+            margin-top: 30px;
+            display: flex;
+            justify-content: flex-end;
+            gap: 15px;
+        }
+
+        .btn {
+            padding: 12px 25px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-size: 14px;
+            font-weight: bold;
+        }
+
+        .edit {
+            background: #2563eb;
+            color: white;
+        }
+
+        .dashboard {
+            background: #e5e7eb;
+            color: #333;
+        }
+
+        .edit:hover {
+            background: #1d4ed8;
+        }
+
+        /* MOBILE */
+
+        @media(max-width: 700px) {
+
+            .container {
+                width: 92%;
+            }
+
+            .profile-header {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .info-grid,
+            .skills {
+                grid-template-columns: 1fr;
+            }
+
+            .actions {
+                flex-direction: column;
+            }
+
+            .btn {
+                text-align: center;
+            }
+
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+
+<!-- NAVBAR -->
+
+<nav class="navbar">
+
+    <div class="logo">
+        SkillExchange AI
+    </div>
+
+    <div class="nav-links">
+
+        <a href="/dashboard">
+            Dashboard
+        </a>
+
+        <a href="/logout">
+            Logout
+        </a>
+
+    </div>
+
+</nav>
+
+
+<div class="container">
+
+
+    <!-- PROFILE HEADER -->
+
+    <div class="profile-header">
+
+        <div class="avatar">
+
+            {{ user.name[0]|upper }}
+
+        </div>
+
+        <div>
+
+            <h1>
+                {{ user.name }}
+            </h1>
+
+            <div class="email">
+
+                {{ user.email }}
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    {% if profile %}
+
+
+    <!-- PERSONAL INFORMATION -->
+
+    <div class="section">
+
+        <h2>
+            Personal Information
+        </h2>
+
+        <div class="info-grid">
+
+            <div class="info">
+
+                <div class="info-label">
+                    Age
+                </div>
+
+                <div class="info-value">
+                    {{ profile.age }}
+                </div>
+
+            </div>
+
+
+            <div class="info">
+
+                <div class="info-label">
+                    Gender
+                </div>
+
+                <div class="info-value">
+                    {{ profile.gender }}
+                </div>
+
+            </div>
+
+
+            <div class="info">
+
+                <div class="info-label">
+                    City
+                </div>
+
+                <div class="info-value">
+                    {{ profile.city }}
+                </div>
+
+            </div>
+
+
+            <div class="info">
+
+                <div class="info-label">
+                    Preferred Language
+                </div>
+
+                <div class="info-value">
+                    {{ profile.preferred_language }}
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <!-- SKILLS -->
+
+    <div class="section">
+
+        <h2>
+            Skill Exchange
+        </h2>
+
+        <div class="skills">
+
+
+            <div class="skill-card teach">
+
+                <h3>
+                    🎓 I Can Teach
+                </h3>
+
+                <div class="skill-name">
+
+                    {{ profile.teach_skill }}
+
+                </div>
+
+            </div>
+
+
+            <div class="skill-card learn">
+
+                <h3>
+                    📚 I Want To Learn
+                </h3>
+
+                <div class="skill-name">
+
+                    {{ profile.learn_skill }}
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <!-- LEARNING PREFERENCES -->
+
+    <div class="section">
+
+        <h2>
+            Learning Preferences
+        </h2>
+
+        <div class="info-grid">
+
+
+            <div class="info">
+
+                <div class="info-label">
+                    Proficiency Level
+                </div>
+
+                <div class="info-value">
+                    {{ profile.proficiency_level }}
+                </div>
+
+            </div>
+
+
+            <div class="info">
+
+                <div class="info-label">
+                    Learning Mode
+                </div>
+
+                <div class="info-value">
+                    {{ profile.learning_mode }}
+                </div>
+
+            </div>
+
+
+            <div class="info">
+
+                <div class="info-label">
+                    Availability
+                </div>
+
+                <div class="info-value">
+                    {{ profile.availability }}
+                </div>
+
+            </div>
+
+
+            <div class="info">
+
+                <div class="info-label">
+                    Completed Exchanges
+                </div>
+
+                <div class="info-value">
+                    {{ profile.completed_exchanges }}
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <!-- ACTIONS -->
+
+    <div class="actions">
+
+        <a
+            href="/dashboard"
+            class="btn dashboard"
+        >
+            ← Dashboard
+        </a>
+
+        <a
+            href="/profile/edit"
+            class="btn edit"
+        >
+            ✏️ Edit Profile
+        </a>
+
+    </div>
+
+
+    {% else %}
+
+
+    <!-- PROFILE NOT CREATED -->
+
+    <div class="section">
+
+        <h2>
+            Your profile is not completed yet.
+        </h2>
+
+        <p>
+            Add your skills and learning preferences
+            to start finding suitable skill partners.
+        </p>
+
+        <div class="actions">
+
+            <a
+                href="/profile/edit"
+                class="btn edit"
+            >
+                Complete Profile
+            </a>
+
+        </div>
+
+    </div>
+
+
+    {% endif %}
+
+
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>My Profile | SkillExchange AI</title>
+
+    <style>
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+
+        body {
+            background: #f4f7fb;
+            color: #222;
+        }
+
+        /* NAVBAR */
+
+        .navbar {
+            height: 70px;
+            background: white;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 7%;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+        }
+
+        .logo {
+            font-size: 24px;
+            font-weight: bold;
+            color: #2563eb;
+        }
+
+        .nav-right a {
+            text-decoration: none;
+            color: #555;
+            margin-left: 25px;
+            font-size: 15px;
+        }
+
+        .nav-right a:hover {
+            color: #2563eb;
+        }
+
+        /* MAIN */
+
+        .container {
+            width: 85%;
+            max-width: 1100px;
+            margin: 40px auto;
+        }
+
+        .heading {
+            margin-bottom: 30px;
+        }
+
+        .heading h1 {
+            font-size: 32px;
+            margin-bottom: 8px;
+        }
+
+        .heading p {
+            color: #777;
+            font-size: 15px;
+        }
+
+        /* CARD */
+
+        .profile-card {
+            background: white;
+            border-radius: 16px;
+            padding: 35px;
+            box-shadow: 0 5px 25px rgba(0,0,0,0.08);
+        }
+
+        .section-title {
+            font-size: 20px;
+            font-weight: bold;
+            margin-bottom: 20px;
+            color: #222;
+        }
+
+        /* GRID */
+
+        .form-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 22px;
+        }
+
+        .form-group {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .form-group.full {
+            grid-column: span 2;
+        }
+
+        label {
+            font-size: 14px;
+            font-weight: bold;
+            margin-bottom: 8px;
+            color: #444;
+        }
+
+        input,
+        select {
+            padding: 13px 14px;
+            border: 1px solid #d6dbe5;
+            border-radius: 8px;
+            font-size: 14px;
+            outline: none;
+            background: white;
+        }
+
+        input:focus,
+        select:focus {
+            border-color: #2563eb;
+            box-shadow: 0 0 0 2px rgba(37,99,235,0.1);
+        }
+
+        /* SKILL SECTION */
+
+        .skill-section {
+            margin-top: 35px;
+        }
+
+        .skill-boxes {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+
+        .skill-box {
+            padding: 22px;
+            border-radius: 12px;
+            border: 1px solid #e2e6ef;
+            background: #fafbff;
+        }
+
+        .skill-box h3 {
+            font-size: 16px;
+            margin-bottom: 15px;
+        }
+
+        .teach-title {
+            color: #2563eb;
+        }
+
+        .learn-title {
+            color: #7c3aed;
+        }
+
+        /* BUTTON */
+
+        .button-section {
+            margin-top: 35px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .back-btn {
+            text-decoration: none;
+            color: #555;
+            font-size: 14px;
+        }
+
+        .save-btn {
+            border: none;
+            background: #2563eb;
+            color: white;
+            padding: 13px 28px;
+            border-radius: 8px;
+            font-size: 15px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        .save-btn:hover {
+            background: #1d4ed8;
+        }
+
+        /* RESPONSIVE */
+
+        @media(max-width: 700px) {
+
+            .container {
+                width: 92%;
+            }
+
+            .form-grid,
+            .skill-boxes {
+                grid-template-columns: 1fr;
+            }
+
+            .form-group.full {
+                grid-column: span 1;
+            }
+
+            .profile-card {
+                padding: 22px;
+            }
+
+            .button-section {
+                flex-direction: column;
+                gap: 15px;
+                align-items: stretch;
+            }
+
+            .save-btn {
+                width: 100%;
+            }
+
+        }
+
+    </style>
+</head>
+
+<body>
+
+<!-- NAVBAR -->
+
+<nav class="navbar">
+
+    <div class="logo">
+        SkillExchange AI
+    </div>
+
+    <div class="nav-right">
+
+        <a href="/dashboard">
+            Dashboard
+        </a>
+
+        <a href="/logout">
+            Logout
+        </a>
+
+    </div>
+
+</nav>
+
+
+<!-- MAIN CONTENT -->
+
+<div class="container">
+
+    <div class="heading">
+
+        <h1>Edit Your Profile</h1>
+
+        <p>
+            Tell the community about your skills and what you want to learn.
+        </p>
+
+    </div>
+
+
+    <div class="profile-card">
+
+        <form method="POST" action="/profile/edit">
+            <!-- PERSONAL INFORMATION -->
+
+            <div class="section-title">
+                Personal Information
+            </div>
+
+            <div class="form-grid">
+
+                <div class="form-group">
+
+                    <label>Age</label>
+
+                    <input
+                        type="number"
+                        name="age"
+                        value="{{ profile.age if profile else '' }}"
+                        placeholder="Enter your age"
+                        required
+                    >
+
+                </div>
+
+
+                <div class="form-group">
+
+                    <label>Gender</label>
+
+                    <select name="gender" required>
+
+                        <option value="">
+                            Select Gender
+                        </option>
+
+                        <option value="Male"
+                        {% if profile and profile.gender == "Male" %}selected{% endif %}>
+                            Male
+                        </option>
+
+                        <option value="Female"
+                        {% if profile and profile.gender == "Female" %}selected{% endif %}>
+                            Female
+                        </option>
+
+                        <option value="Other"
+                        {% if profile and profile.gender == "Other" %}selected{% endif %}>
+                            Other
+                        </option>
+
+                    </select>
+
+                </div>
+
+
+                <div class="form-group full">
+
+                    <label>City</label>
+
+                    <input
+                        type="text"
+                        name="city"
+                        value="{{ profile.city if profile else '' }}"
+                        placeholder="Enter your city"
+                        required
+                    >
+
+                </div>
+
+            </div>
+
+
+            <!-- SKILLS -->
+
+            <div class="skill-section">
+
+                <div class="section-title">
+                    Skill Exchange
+                </div>
+
+
+                <div class="skill-boxes">
+
+
+                    <!-- TEACH -->
+
+                    <div class="skill-box">
+
+                        <h3 class="teach-title">
+                            🎓 Skill I Can Teach
+                        </h3>
+
+                        <input
+                            type="text"
+                            name="teach_skill"
+                            value="{{ profile.teach_skill if profile else '' }}"
+                            placeholder="Example: Python"
+                            required
+                        >
+
+                    </div>
+
+
+                    <!-- LEARN -->
+
+                    <div class="skill-box">
+
+                        <h3 class="learn-title">
+                            📚 Skill I Want To Learn
+                        </h3>
+
+                        <input
+                            type="text"
+                            name="learn_skill"
+                            value="{{ profile.learn_skill if profile else '' }}"
+                            placeholder="Example: Machine Learning"
+                            required
+                        >
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <!-- LEARNING PREFERENCES -->
+
+            <div class="skill-section">
+
+                <div class="section-title">
+                    Learning Preferences
+                </div>
+
+
+                <div class="form-grid">
+
+
+                    <div class="form-group">
+
+                        <label>Proficiency Level</label>
+
+                        <select
+                            name="proficiency_level"
+                            required
+                        >
+
+                            <option value="">
+                                Select Level
+                            </option>
+
+                            <option value="Beginner"
+                            {% if profile and profile.proficiency_level == "Beginner" %}selected{% endif %}>
+                                Beginner
+                            </option>
+
+                            <option value="Intermediate"
+                            {% if profile and profile.proficiency_level == "Intermediate" %}selected{% endif %}>
+                                Intermediate
+                            </option>
+
+                            <option value="Advanced"
+                            {% if profile and profile.proficiency_level == "Advanced" %}selected{% endif %}>
+                                Advanced
+                            </option>
+
+                        </select>
+
+                    </div>
+
+
+                    <div class="form-group">
+
+                        <label>Preferred Language</label>
+
+                        <input
+                            type="text"
+                            name="preferred_language"
+                            value="{{ profile.preferred_language if profile else '' }}"
+                            placeholder="Example: English"
+                            required
+                        >
+
+                    </div>
+
+
+                    <div class="form-group">
+
+                        <label>Learning Mode</label>
+
+                        <select
+                            name="learning_mode"
+                            required
+                        >
+
+                            <option value="">
+                                Select Mode
+                            </option>
+
+                            <option value="Online"
+                            {% if profile and profile.learning_mode == "Online" %}selected{% endif %}>
+                                Online
+                            </option>
+
+                            <option value="Offline"
+                            {% if profile and profile.learning_mode == "Offline" %}selected{% endif %}>
+                                Offline
+                            </option>
+
+                            <option value="Both"
+                            {% if profile and profile.learning_mode == "Both" %}selected{% endif %}>
+                                Both
+                            </option>
+
+                        </select>
+
+                    </div>
+
+
+                    <div class="form-group">
+
+                        <label>Availability</label>
+
+                        <select
+                            name="availability"
+                            required
+                        >
+
+                            <option value="">
+                                Select Availability
+                            </option>
+
+                            <option value="Morning"
+                            {% if profile and profile.availability == "Morning" %}selected{% endif %}>
+                                Morning
+                            </option>
+
+                            <option value="Afternoon"
+                            {% if profile and profile.availability == "Afternoon" %}selected{% endif %}>
+                                Afternoon
+                            </option>
+
+                            <option value="Evening"
+                            {% if profile and profile.availability == "Evening" %}selected{% endif %}>
+                                Evening
+                            </option>
+
+                            <option value="Weekend"
+                            {% if profile and profile.availability == "Weekend" %}selected{% endif %}>
+                                Weekend
+                            </option>
+
+                        </select>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <!-- BUTTONS -->
+
+            <div class="button-section">
+
+                <a
+                    href="/dashboard"
+                    class="back-btn"
+                >
+                    ← Back to Dashboard
+                </a>
+
+
+                <button
+                    type="submit"
+                    class="save-btn"
+                >
+                    Save Profile
+                </button>
+
+            </div>
+
+        </form>
+
+    </div>
+
+</div>
+
+</body>
+</html>

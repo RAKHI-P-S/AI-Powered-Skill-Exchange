@@ -1,0 +1,1001 @@
+user_id,name,age,gender,city,teach_skill,learn_skill,proficiency_level,preferred_language,learning_mode,availability,rating,completed_exchanges
+U0001,Diya,25,Male,Kannur,Resume Writing,C++,Beginner,English,Hybrid,Evening,4.6,17
+U0002,Rahul,36,Female,Thiruvananthapuram,C++,Resume Writing,Beginner,English,Online,Evening,3.8,16
+U0003,Diya,32,Female,Thiruvananthapuram,Public Speaking,Python,Beginner,Malayalam,Hybrid,Weekend,4.1,8
+U0004,Arun,24,Female,Thiruvananthapuram,Python,Public Speaking,Beginner,Malayalam,Offline,Weekend,3.6,11
+U0005,Rohit,21,Female,Thiruvananthapuram,Public Speaking,Excel,Advanced,English,Offline,Weekend,4.7,19
+U0006,Joel,29,Male,Kannur,Excel,Public Speaking,Beginner,English,Online,Weekend,4.5,24
+U0007,Sanjay,26,Female,Kannur,PowerPoint,C,Intermediate,Malayalam,Online,Morning,4.1,6
+U0008,Vivek,26,Male,Thrissur,C,PowerPoint,Advanced,Malayalam,Online,Morning,4.3,7
+U0009,Fathima,38,Male,Kannur,HTML,Spoken English,Intermediate,Hindi,Online,Evening,3.8,1
+U0010,Sreya,28,Female,Kochi,Spoken English,HTML,Beginner,Hindi,Online,Evening,4.9,18
+U0011,Asha,33,Female,Kannur,Arduino,Cooking,Intermediate,Tamil,Online,Afternoon,3.9,7
+U0012,Naveen,35,Female,Kannur,Cooking,Arduino,Advanced,Tamil,Offline,Afternoon,4.8,12
+U0013,Rahul,19,Male,Kollam,Canva,JavaScript,Advanced,Malayalam,Online,Weekend,4.7,13
+U0014,Keerthana,20,Female,Kozhikode,JavaScript,Canva,Advanced,Malayalam,Offline,Weekend,4.3,17
+U0015,Harsha,38,Female,Thiruvananthapuram,AI Basics,Python,Intermediate,English,Offline,Evening,3.7,0
+U0016,Naveen,26,Male,Thrissur,Python,AI Basics,Beginner,English,Hybrid,Evening,3.9,20
+U0017,Priya,23,Male,Thrissur,Malayalam,Resume Writing,Intermediate,Malayalam,Offline,Afternoon,3.5,11
+U0018,Joel,27,Male,Thiruvananthapuram,Resume Writing,Malayalam,Beginner,Malayalam,Hybrid,Afternoon,4.9,2
+U0019,Arun,39,Female,Thrissur,Guitar,Spoken English,Beginner,English,Offline,Afternoon,4.3,19
+U0020,Neha,24,Male,Kannur,Spoken English,Guitar,Intermediate,English,Offline,Afternoon,5.0,20
+U0021,Diya,25,Male,Kochi,Canva,Spoken English,Beginner,Hindi,Hybrid,Morning,4.3,18
+U0022,Diya,18,Male,Kannur,Spoken English,Canva,Advanced,Hindi,Online,Morning,3.8,1
+U0023,Nikhil,39,Female,Kollam,AI Basics,Photoshop,Advanced,English,Online,Afternoon,4.6,18
+U0024,Dev,33,Male,Kozhikode,Photoshop,AI Basics,Intermediate,English,Online,Afternoon,3.6,21
+U0025,Kiran,19,Male,Thiruvananthapuram,Video Editing,Canva,Intermediate,Hindi,Hybrid,Weekend,4.0,3
+U0026,Diya,24,Male,Thrissur,Canva,Video Editing,Intermediate,Hindi,Online,Weekend,4.1,8
+U0027,Sreya,35,Male,Thiruvananthapuram,Photography,JavaScript,Advanced,English,Hybrid,Weekend,4.8,2
+U0028,Fathima,25,Male,Kozhikode,JavaScript,Photography,Intermediate,English,Offline,Weekend,3.8,12
+U0029,Aarav,30,Female,Kozhikode,Arduino,Java,Intermediate,Malayalam,Offline,Weekend,4.5,23
+U0030,Sreya,35,Female,Kollam,Java,Arduino,Beginner,Malayalam,Offline,Weekend,3.8,1
+U0031,Anjali,19,Female,Thrissur,Tamil,Yoga,Advanced,English,Online,Evening,3.6,16
+U0032,Rahul,23,Male,Thrissur,Yoga,Tamil,Beginner,English,Hybrid,Evening,4.8,12
+U0033,Keerthana,20,Female,Kannur,C++,IoT,Advanced,Malayalam,Hybrid,Morning,4.3,8
+U0034,Vishnu,39,Female,Kollam,IoT,C++,Intermediate,Malayalam,Offline,Morning,3.7,20
+U0035,Aarav,32,Male,Thiruvananthapuram,PowerPoint,Spoken English,Advanced,Tamil,Online,Morning,4.3,4
+U0036,Fathima,29,Male,Kollam,Spoken English,PowerPoint,Intermediate,Tamil,Offline,Morning,3.7,17
+U0037,Fathima,39,Male,Kollam,Cooking,PowerPoint,Intermediate,English,Online,Evening,4.8,23
+U0038,Rohit,22,Female,Kochi,PowerPoint,Cooking,Advanced,English,Online,Evening,4.6,6
+U0039,Nikhil,19,Male,Kannur,Digital Marketing,Resume Writing,Intermediate,Tamil,Offline,Weekend,3.6,10
+U0040,Harsha,22,Female,Kollam,Resume Writing,Digital Marketing,Advanced,Tamil,Offline,Weekend,4.3,13
+U0041,Joel,40,Male,Thrissur,Hindi,Python,Beginner,English,Offline,Morning,4.4,4
+U0042,Neha,22,Male,Kochi,Python,Hindi,Intermediate,English,Online,Morning,4.8,6
+U0043,Harsha,35,Female,Thrissur,Digital Marketing,JavaScript,Advanced,English,Online,Evening,4.9,7
+U0044,Maya,23,Male,Kozhikode,JavaScript,Digital Marketing,Beginner,English,Online,Evening,4.6,10
+U0045,Meera,40,Male,Kozhikode,Data Analysis,Video Editing,Beginner,Malayalam,Offline,Evening,3.8,14
+U0046,Priya,27,Male,Kollam,Video Editing,Data Analysis,Beginner,Malayalam,Hybrid,Evening,3.8,10
+U0047,Priya,38,Female,Kannur,Excel,Arduino,Advanced,English,Offline,Evening,4.9,3
+U0048,Joel,26,Male,Thrissur,Arduino,Excel,Intermediate,English,Online,Evening,3.7,13
+U0049,Keerthana,34,Male,Kozhikode,Canva,Yoga,Advanced,Tamil,Online,Weekend,3.9,22
+U0050,Neha,18,Male,Kochi,Yoga,Canva,Intermediate,Tamil,Online,Weekend,4.9,10
+U0051,Athira,27,Female,Kochi,Public Speaking,Photoshop,Intermediate,English,Hybrid,Evening,3.9,4
+U0052,Vishnu,31,Female,Kannur,Photoshop,Public Speaking,Advanced,English,Online,Evening,4.4,9
+U0053,Anu,24,Female,Thrissur,Graphic Design,Tamil,Advanced,English,Hybrid,Evening,4.0,14
+U0054,Kiran,39,Male,Thrissur,Tamil,Graphic Design,Intermediate,English,Hybrid,Evening,3.8,2
+U0055,Abin,25,Female,Kollam,PowerPoint,Hindi,Beginner,Tamil,Online,Morning,3.5,7
+U0056,Akhil,37,Male,Kozhikode,Hindi,PowerPoint,Intermediate,Tamil,Hybrid,Morning,4.4,22
+U0057,Diya,22,Male,Thiruvananthapuram,Cooking,Graphic Design,Intermediate,Hindi,Online,Weekend,3.8,22
+U0058,Athira,32,Male,Thrissur,Graphic Design,Cooking,Beginner,Hindi,Online,Weekend,4.2,25
+U0059,Keerthana,34,Female,Thrissur,Photography,Cooking,Intermediate,Tamil,Online,Weekend,4.6,15
+U0060,Kiran,26,Male,Kannur,Cooking,Photography,Intermediate,Tamil,Hybrid,Weekend,4.2,7
+U0061,Diya,26,Female,Kochi,Excel,Spoken English,Advanced,English,Online,Evening,3.7,7
+U0062,Sanjay,40,Male,Kannur,Spoken English,Excel,Beginner,English,Online,Evening,4.1,10
+U0063,Vishnu,31,Female,Thrissur,Hindi,Photography,Advanced,Hindi,Online,Morning,4.8,24
+U0064,Dev,30,Female,Thiruvananthapuram,Photography,Hindi,Intermediate,Hindi,Offline,Morning,4.6,13
+U0065,Diya,26,Female,Kozhikode,Hindi,Yoga,Beginner,Malayalam,Offline,Weekend,4.0,21
+U0066,Sreya,30,Male,Kozhikode,Yoga,Hindi,Beginner,Malayalam,Hybrid,Weekend,4.3,12
+U0067,Asha,31,Male,Kozhikode,Tamil,Public Speaking,Beginner,English,Online,Morning,3.9,10
+U0068,Vishnu,32,Female,Kochi,Public Speaking,Tamil,Intermediate,English,Offline,Morning,4.6,13
+U0069,Aarav,35,Male,Kochi,Excel,AI Basics,Beginner,English,Hybrid,Weekend,3.6,20
+U0070,Anjali,18,Male,Kollam,AI Basics,Excel,Beginner,English,Hybrid,Weekend,3.7,4
+U0071,Kiran,40,Female,Kochi,Spoken English,Cooking,Beginner,English,Hybrid,Afternoon,4.4,23
+U0072,Riya,21,Male,Kochi,Cooking,Spoken English,Beginner,English,Hybrid,Afternoon,3.5,9
+U0073,Riya,24,Male,Thrissur,Tamil,Cooking,Advanced,Hindi,Hybrid,Weekend,3.9,22
+U0074,Harsha,27,Male,Thrissur,Cooking,Tamil,Beginner,Hindi,Offline,Weekend,4.3,21
+U0075,Maya,31,Female,Thiruvananthapuram,Canva,C,Intermediate,Tamil,Offline,Morning,4.5,14
+U0076,Riya,22,Female,Kollam,C,Canva,Advanced,Tamil,Hybrid,Morning,4.9,8
+U0077,Neha,36,Female,Kochi,Public Speaking,Machine Learning,Beginner,Hindi,Online,Weekend,3.9,14
+U0078,Diya,32,Female,Kochi,Machine Learning,Public Speaking,Beginner,Hindi,Offline,Weekend,4.8,5
+U0079,Akash,26,Female,Thrissur,Spoken English,CSS,Beginner,Tamil,Hybrid,Evening,4.9,2
+U0080,Diya,31,Female,Thrissur,CSS,Spoken English,Beginner,Tamil,Hybrid,Evening,4.2,22
+U0081,Anu,25,Female,Kannur,Spoken English,Photography,Beginner,English,Offline,Morning,4.5,11
+U0082,Akhil,35,Female,Kozhikode,Photography,Spoken English,Advanced,English,Hybrid,Morning,4.0,22
+U0083,Diya,21,Male,Kochi,Photography,Excel,Beginner,Tamil,Hybrid,Evening,4.3,24
+U0084,Riya,23,Male,Kollam,Excel,Photography,Advanced,Tamil,Offline,Evening,3.9,18
+U0085,Abin,24,Female,Kollam,Yoga,Malayalam,Intermediate,Tamil,Online,Morning,4.0,22
+U0086,Rohit,22,Female,Thiruvananthapuram,Malayalam,Yoga,Beginner,Tamil,Hybrid,Morning,3.9,4
+U0087,Maya,18,Female,Kozhikode,Resume Writing,Arduino,Intermediate,Hindi,Offline,Morning,4.0,1
+U0088,Nikhil,33,Male,Thiruvananthapuram,Arduino,Resume Writing,Intermediate,Hindi,Offline,Morning,3.6,20
+U0089,Sreya,36,Female,Thiruvananthapuram,Digital Marketing,Java,Beginner,Malayalam,Online,Afternoon,4.3,13
+U0090,Keerthana,37,Male,Thrissur,Java,Digital Marketing,Intermediate,Malayalam,Offline,Afternoon,4.9,9
+U0091,Dev,37,Male,Thrissur,AI Basics,Tamil,Advanced,Hindi,Online,Evening,4.9,6
+U0092,Asha,24,Female,Kannur,Tamil,AI Basics,Beginner,Hindi,Online,Evening,3.9,17
+U0093,Kiran,40,Female,Kochi,C,CSS,Beginner,English,Online,Weekend,3.9,9
+U0094,Riya,32,Male,Kannur,CSS,C,Beginner,English,Offline,Weekend,4.7,20
+U0095,Sneha,35,Male,Kannur,Tamil,Cooking,Beginner,Malayalam,Offline,Weekend,4.7,2
+U0096,Anjali,23,Female,Thrissur,Cooking,Tamil,Advanced,Malayalam,Hybrid,Weekend,4.9,14
+U0097,Nikhil,34,Female,Kozhikode,C++,Spoken English,Beginner,Tamil,Hybrid,Weekend,3.6,13
+U0098,Naveen,28,Female,Thiruvananthapuram,Spoken English,C++,Beginner,Tamil,Online,Weekend,4.9,18
+U0099,Harsha,23,Female,Thrissur,Tamil,Python,Advanced,Tamil,Offline,Morning,4.9,5
+U0100,Dev,31,Female,Thiruvananthapuram,Python,Tamil,Intermediate,Tamil,Offline,Morning,4.1,10
+U0101,Neha,40,Female,Kochi,Digital Marketing,C++,Advanced,Malayalam,Offline,Evening,4.7,17
+U0102,Anjali,32,Male,Kochi,C++,Digital Marketing,Intermediate,Malayalam,Offline,Evening,3.7,24
+U0103,Neha,19,Male,Thrissur,Graphic Design,Arduino,Intermediate,English,Hybrid,Weekend,4.6,20
+U0104,Kiran,19,Male,Kochi,Arduino,Graphic Design,Advanced,English,Online,Weekend,4.9,14
+U0105,Aarav,38,Male,Kannur,Arduino,Cooking,Beginner,Hindi,Offline,Morning,4.3,17
+U0106,Neha,20,Male,Thiruvananthapuram,Cooking,Arduino,Intermediate,Hindi,Online,Morning,4.5,4
+U0107,Neha,33,Female,Kollam,Spoken English,Guitar,Intermediate,Tamil,Hybrid,Evening,3.7,6
+U0108,Fathima,37,Male,Thiruvananthapuram,Guitar,Spoken English,Intermediate,Tamil,Offline,Evening,4.0,25
+U0109,Naveen,27,Female,Kollam,Malayalam,Excel,Intermediate,English,Hybrid,Evening,4.2,10
+U0110,Rohit,35,Female,Kozhikode,Excel,Malayalam,Intermediate,English,Online,Evening,5.0,7
+U0111,Anjali,28,Female,Kannur,Tamil,Graphic Design,Intermediate,Malayalam,Offline,Weekend,5.0,25
+U0112,Abin,38,Male,Kozhikode,Graphic Design,Tamil,Beginner,Malayalam,Online,Weekend,4.3,18
+U0113,Sneha,34,Female,Thiruvananthapuram,Photoshop,Arduino,Advanced,English,Online,Weekend,4.1,20
+U0114,Arun,20,Female,Kochi,Arduino,Photoshop,Intermediate,English,Hybrid,Weekend,4.5,20
+U0115,Akash,38,Female,Thrissur,C,Arduino,Beginner,Tamil,Hybrid,Weekend,3.6,20
+U0116,Vivek,27,Male,Kannur,Arduino,C,Beginner,Tamil,Offline,Weekend,5.0,24
+U0117,Meera,40,Female,Thiruvananthapuram,Resume Writing,Guitar,Beginner,English,Offline,Weekend,4.7,9
+U0118,Priya,29,Female,Kollam,Guitar,Resume Writing,Beginner,English,Hybrid,Weekend,4.1,21
+U0119,Rahul,37,Female,Thrissur,Data Analysis,HTML,Advanced,Malayalam,Online,Afternoon,4.2,18
+U0120,Arun,25,Female,Kannur,HTML,Data Analysis,Intermediate,Malayalam,Offline,Afternoon,3.9,0
+U0121,Vivek,35,Male,Thiruvananthapuram,Arduino,Data Analysis,Intermediate,Hindi,Offline,Evening,5.0,9
+U0122,Asha,31,Female,Kozhikode,Data Analysis,Arduino,Intermediate,Hindi,Online,Evening,5.0,15
+U0123,Dev,27,Female,Thiruvananthapuram,C++,Excel,Advanced,Hindi,Offline,Evening,3.9,18
+U0124,Maya,39,Male,Thrissur,Excel,C++,Advanced,Hindi,Offline,Evening,4.7,9
+U0125,Diya,38,Male,Thrissur,Yoga,Machine Learning,Intermediate,Malayalam,Hybrid,Evening,4.6,24
+U0126,Vivek,39,Male,Kannur,Machine Learning,Yoga,Beginner,Malayalam,Hybrid,Evening,4.5,9
+U0127,Naveen,22,Male,Kochi,Data Analysis,Photography,Intermediate,English,Hybrid,Evening,4.1,6
+U0128,Arun,35,Female,Thrissur,Photography,Data Analysis,Advanced,English,Offline,Evening,4.7,8
+U0129,Naveen,28,Male,Kozhikode,IoT,Machine Learning,Beginner,Hindi,Online,Evening,4.6,7
+U0130,Maya,39,Female,Thrissur,Machine Learning,IoT,Intermediate,Hindi,Online,Evening,4.7,0
+U0131,Priya,39,Female,Thrissur,Excel,Tamil,Intermediate,English,Hybrid,Weekend,4.9,3
+U0132,Vivek,25,Female,Thiruvananthapuram,Tamil,Excel,Advanced,English,Hybrid,Weekend,4.0,19
+U0133,Fathima,40,Female,Kannur,JavaScript,Digital Marketing,Intermediate,English,Online,Weekend,3.7,1
+U0134,Anu,33,Male,Thiruvananthapuram,Digital Marketing,JavaScript,Beginner,English,Hybrid,Weekend,3.7,14
+U0135,Joel,31,Male,Kozhikode,Canva,Cooking,Advanced,Hindi,Offline,Afternoon,4.9,8
+U0136,Anjali,40,Female,Kollam,Cooking,Canva,Intermediate,Hindi,Offline,Afternoon,4.9,11
+U0137,Anjali,30,Female,Kollam,C++,Cooking,Beginner,Tamil,Offline,Evening,3.6,6
+U0138,Asha,38,Male,Thiruvananthapuram,Cooking,C++,Intermediate,Tamil,Online,Evening,5.0,25
+U0139,Dev,24,Male,Kochi,Tamil,CSS,Beginner,English,Hybrid,Afternoon,3.5,4
+U0140,Arun,35,Female,Kollam,CSS,Tamil,Beginner,English,Hybrid,Afternoon,4.8,4
+U0141,Aarav,23,Female,Thiruvananthapuram,Python,Graphic Design,Beginner,Malayalam,Hybrid,Evening,4.1,3
+U0142,Naveen,20,Female,Kozhikode,Graphic Design,Python,Intermediate,Malayalam,Hybrid,Evening,4.4,14
+U0143,Kiran,38,Male,Thiruvananthapuram,Malayalam,JavaScript,Intermediate,English,Offline,Evening,4.1,3
+U0144,Akhil,40,Female,Thiruvananthapuram,JavaScript,Malayalam,Beginner,English,Offline,Evening,4.4,2
+U0145,Keerthana,34,Female,Kozhikode,SQL,PowerPoint,Advanced,Tamil,Hybrid,Weekend,4.1,25
+U0146,Riya,21,Male,Kozhikode,PowerPoint,SQL,Intermediate,Tamil,Online,Weekend,4.1,14
+U0147,Neha,28,Female,Kochi,Graphic Design,Photography,Beginner,English,Hybrid,Evening,4.9,2
+U0148,Rahul,20,Male,Kozhikode,Photography,Graphic Design,Beginner,English,Hybrid,Evening,4.6,25
+U0149,Vivek,21,Female,Kochi,SQL,Tamil,Advanced,English,Offline,Evening,4.8,23
+U0150,Anjali,27,Female,Kochi,Tamil,SQL,Beginner,English,Hybrid,Evening,4.3,4
+U0151,Priya,35,Female,Thiruvananthapuram,Digital Marketing,Spoken English,Intermediate,Malayalam,Hybrid,Morning,3.8,13
+U0152,Maya,35,Male,Thrissur,Spoken English,Digital Marketing,Advanced,Malayalam,Hybrid,Morning,3.9,5
+U0153,Priya,18,Male,Kollam,Excel,Guitar,Advanced,Tamil,Hybrid,Evening,4.1,4
+U0154,Naveen,38,Male,Thiruvananthapuram,Guitar,Excel,Advanced,Tamil,Hybrid,Evening,3.8,13
+U0155,Anu,28,Male,Thiruvananthapuram,Photography,Photoshop,Beginner,Malayalam,Online,Evening,4.6,1
+U0156,Vivek,20,Female,Kozhikode,Photoshop,Photography,Advanced,Malayalam,Offline,Evening,4.2,14
+U0157,Priya,31,Male,Kochi,Video Editing,Excel,Advanced,Malayalam,Hybrid,Morning,4.4,16
+U0158,Vivek,27,Male,Kollam,Excel,Video Editing,Intermediate,Malayalam,Hybrid,Morning,3.6,6
+U0159,Anu,28,Male,Thiruvananthapuram,PowerPoint,CSS,Intermediate,Malayalam,Hybrid,Evening,4.1,4
+U0160,Sanjay,35,Male,Thrissur,CSS,PowerPoint,Advanced,Malayalam,Hybrid,Evening,4.7,2
+U0161,Aarav,32,Male,Kochi,Graphic Design,Arduino,Advanced,English,Offline,Weekend,4.4,22
+U0162,Asha,31,Female,Thiruvananthapuram,Arduino,Graphic Design,Intermediate,English,Online,Weekend,4.9,5
+U0163,Rahul,31,Male,Kollam,Data Analysis,Public Speaking,Intermediate,Hindi,Hybrid,Evening,4.1,2
+U0164,Sanjay,27,Female,Kollam,Public Speaking,Data Analysis,Intermediate,Hindi,Online,Evening,3.6,20
+U0165,Priya,38,Male,Kollam,C++,Hindi,Beginner,Malayalam,Online,Evening,3.9,5
+U0166,Keerthana,22,Male,Kollam,Hindi,C++,Advanced,Malayalam,Offline,Evening,4.2,18
+U0167,Maya,38,Female,Kollam,Yoga,Tamil,Intermediate,Hindi,Online,Evening,4.2,20
+U0168,Anu,26,Male,Kochi,Tamil,Yoga,Advanced,Hindi,Online,Evening,4.0,14
+U0169,Rahul,38,Male,Thrissur,Java,C,Advanced,Tamil,Hybrid,Evening,4.1,18
+U0170,Rohit,19,Female,Thrissur,C,Java,Advanced,Tamil,Online,Evening,4.0,15
+U0171,Sneha,28,Male,Thrissur,Malayalam,SQL,Advanced,English,Online,Weekend,3.6,22
+U0172,Kiran,32,Male,Kochi,SQL,Malayalam,Intermediate,English,Offline,Weekend,4.1,24
+U0173,Rahul,28,Male,Thrissur,Photoshop,Cooking,Advanced,English,Offline,Evening,3.9,23
+U0174,Maya,39,Male,Kochi,Cooking,Photoshop,Beginner,English,Hybrid,Evening,4.5,11
+U0175,Keerthana,40,Male,Kochi,PowerPoint,Digital Marketing,Advanced,Hindi,Offline,Afternoon,4.5,10
+U0176,Abin,22,Male,Kannur,Digital Marketing,PowerPoint,Advanced,Hindi,Offline,Afternoon,4.3,0
+U0177,Akash,33,Male,Kollam,Canva,PowerPoint,Beginner,Malayalam,Online,Afternoon,3.6,25
+U0178,Sneha,34,Male,Kannur,PowerPoint,Canva,Intermediate,Malayalam,Hybrid,Afternoon,3.7,12
+U0179,Naveen,32,Male,Kozhikode,SQL,CSS,Intermediate,Malayalam,Hybrid,Afternoon,4.6,14
+U0180,Keerthana,27,Female,Kollam,CSS,SQL,Advanced,Malayalam,Online,Afternoon,4.0,25
+U0181,Vivek,36,Female,Kozhikode,Data Analysis,Spoken English,Intermediate,Malayalam,Offline,Evening,4.3,13
+U0182,Meera,24,Male,Kochi,Spoken English,Data Analysis,Beginner,Malayalam,Hybrid,Evening,4.2,11
+U0183,Rahul,23,Female,Kozhikode,Hindi,C++,Advanced,English,Online,Evening,4.7,2
+U0184,Fathima,25,Female,Kochi,C++,Hindi,Beginner,English,Offline,Evening,3.6,16
+U0185,Priya,25,Male,Kochi,Canva,JavaScript,Beginner,Hindi,Hybrid,Morning,4.5,25
+U0186,Arun,22,Male,Kochi,JavaScript,Canva,Intermediate,Hindi,Hybrid,Morning,4.7,24
+U0187,Joel,20,Male,Kochi,Cooking,Spoken English,Beginner,Hindi,Online,Morning,4.3,23
+U0188,Keerthana,34,Female,Thiruvananthapuram,Spoken English,Cooking,Intermediate,Hindi,Online,Morning,4.0,1
+U0189,Sneha,33,Male,Kannur,JavaScript,Photography,Advanced,Hindi,Hybrid,Morning,3.9,4
+U0190,Anu,31,Male,Thrissur,Photography,JavaScript,Intermediate,Hindi,Online,Morning,4.4,5
+U0191,Rahul,34,Male,Kozhikode,Digital Marketing,Cooking,Intermediate,English,Online,Evening,4.5,11
+U0192,Nikhil,18,Female,Thiruvananthapuram,Cooking,Digital Marketing,Intermediate,English,Online,Evening,4.6,20
+U0193,Anjali,29,Female,Kannur,C++,Data Analysis,Beginner,Tamil,Hybrid,Afternoon,4.2,22
+U0194,Akhil,38,Male,Kollam,Data Analysis,C++,Beginner,Tamil,Hybrid,Afternoon,4.7,14
+U0195,Sreya,24,Male,Kochi,Java,Photoshop,Intermediate,Malayalam,Hybrid,Morning,4.1,17
+U0196,Akhil,26,Male,Kannur,Photoshop,Java,Beginner,Malayalam,Offline,Morning,4.0,24
+U0197,Sneha,29,Female,Kozhikode,Java,Arduino,Advanced,Tamil,Offline,Evening,4.8,12
+U0198,Akash,23,Female,Kannur,Arduino,Java,Intermediate,Tamil,Offline,Evening,4.9,16
+U0199,Rahul,31,Male,Thrissur,Excel,Machine Learning,Intermediate,English,Offline,Weekend,3.7,10
+U0200,Vivek,27,Female,Kozhikode,Machine Learning,Excel,Advanced,English,Hybrid,Weekend,4.1,22
+U0201,Naveen,29,Female,Kochi,Photography,Canva,Advanced,Hindi,Online,Morning,3.6,20
+U0202,Sanjay,29,Male,Thiruvananthapuram,Canva,Photography,Beginner,Hindi,Hybrid,Morning,4.5,14
+U0203,Harsha,38,Female,Kochi,Java,HTML,Intermediate,English,Hybrid,Afternoon,3.5,4
+U0204,Vivek,32,Female,Kochi,HTML,Java,Intermediate,English,Online,Afternoon,4.4,16
+U0205,Diya,21,Male,Kannur,Canva,Video Editing,Beginner,Tamil,Offline,Evening,4.3,17
+U0206,Sneha,26,Female,Kannur,Video Editing,Canva,Intermediate,Tamil,Online,Evening,5.0,9
+U0207,Arun,20,Female,Kollam,Cooking,Spoken English,Advanced,Malayalam,Offline,Morning,5.0,25
+U0208,Vivek,28,Female,Kannur,Spoken English,Cooking,Beginner,Malayalam,Hybrid,Morning,4.3,9
+U0209,Athira,25,Male,Kollam,AI Basics,HTML,Beginner,Malayalam,Online,Evening,4.7,0
+U0210,Priya,35,Female,Kozhikode,HTML,AI Basics,Advanced,Malayalam,Online,Evening,4.4,2
+U0211,Athira,31,Female,Thrissur,C,Photoshop,Beginner,Hindi,Online,Weekend,5.0,20
+U0212,Rahul,32,Female,Kannur,Photoshop,C,Advanced,Hindi,Offline,Weekend,3.7,24
+U0213,Neha,34,Male,Thiruvananthapuram,Hindi,Digital Marketing,Advanced,Malayalam,Online,Afternoon,4.0,5
+U0214,Akash,40,Male,Kochi,Digital Marketing,Hindi,Advanced,Malayalam,Offline,Afternoon,4.8,8
+U0215,Asha,27,Male,Thrissur,CSS,Digital Marketing,Advanced,Tamil,Online,Afternoon,4.4,18
+U0216,Arun,23,Female,Thrissur,Digital Marketing,CSS,Beginner,Tamil,Online,Afternoon,3.6,20
+U0217,Harsha,36,Female,Thrissur,Yoga,Tamil,Advanced,Tamil,Online,Afternoon,4.2,20
+U0218,Rohit,27,Female,Kozhikode,Tamil,Yoga,Beginner,Tamil,Hybrid,Afternoon,4.1,14
+U0219,Kiran,31,Female,Kozhikode,C,Guitar,Beginner,English,Offline,Afternoon,4.4,10
+U0220,Maya,40,Female,Kannur,Guitar,C,Intermediate,English,Offline,Afternoon,3.7,11
+U0221,Diya,32,Male,Kochi,Malayalam,Tamil,Intermediate,English,Online,Evening,3.7,1
+U0222,Anu,30,Female,Kollam,Tamil,Malayalam,Beginner,English,Offline,Evening,4.9,23
+U0223,Athira,32,Female,Kochi,Photoshop,CSS,Intermediate,Malayalam,Online,Weekend,3.6,12
+U0224,Athira,32,Male,Kollam,CSS,Photoshop,Advanced,Malayalam,Offline,Weekend,3.6,9
+U0225,Rohit,18,Male,Kozhikode,Spoken English,Resume Writing,Beginner,Hindi,Offline,Evening,4.6,24
+U0226,Sanjay,29,Male,Kozhikode,Resume Writing,Spoken English,Beginner,Hindi,Hybrid,Evening,4.3,11
+U0227,Athira,32,Female,Thrissur,Hindi,PowerPoint,Advanced,English,Hybrid,Weekend,3.7,3
+U0228,Sanjay,29,Female,Thrissur,PowerPoint,Hindi,Intermediate,English,Online,Weekend,3.8,16
+U0229,Anjali,22,Female,Kozhikode,Graphic Design,Hindi,Advanced,English,Offline,Morning,3.7,16
+U0230,Arun,28,Female,Kollam,Hindi,Graphic Design,Intermediate,English,Hybrid,Morning,4.6,9
+U0231,Akhil,18,Female,Kochi,Tamil,Photoshop,Advanced,Hindi,Online,Evening,5.0,18
+U0232,Anu,40,Male,Thrissur,Photoshop,Tamil,Intermediate,Hindi,Offline,Evening,5.0,25
+U0233,Dev,33,Male,Thrissur,Yoga,Tamil,Advanced,Malayalam,Hybrid,Morning,4.4,12
+U0234,Arun,39,Male,Thiruvananthapuram,Tamil,Yoga,Advanced,Malayalam,Hybrid,Morning,3.7,0
+U0235,Neha,40,Male,Kozhikode,Photography,Photoshop,Advanced,Hindi,Hybrid,Afternoon,4.9,23
+U0236,Naveen,19,Male,Thrissur,Photoshop,Photography,Beginner,Hindi,Hybrid,Afternoon,4.0,21
+U0237,Meera,32,Female,Thrissur,Spoken English,Hindi,Intermediate,Hindi,Hybrid,Evening,4.7,23
+U0238,Vivek,38,Female,Thrissur,Hindi,Spoken English,Intermediate,Hindi,Online,Evening,4.9,8
+U0239,Harsha,27,Male,Kannur,Hindi,PowerPoint,Advanced,Malayalam,Offline,Evening,4.0,11
+U0240,Rohit,26,Female,Thiruvananthapuram,PowerPoint,Hindi,Advanced,Malayalam,Hybrid,Evening,4.3,12
+U0241,Anjali,27,Male,Kochi,Machine Learning,Canva,Intermediate,Malayalam,Hybrid,Evening,3.9,15
+U0242,Vishnu,24,Female,Thrissur,Canva,Machine Learning,Advanced,Malayalam,Offline,Evening,3.7,19
+U0243,Anjali,39,Male,Kannur,Guitar,Tamil,Beginner,Malayalam,Online,Afternoon,3.7,10
+U0244,Riya,33,Male,Kannur,Tamil,Guitar,Beginner,Malayalam,Online,Afternoon,4.9,5
+U0245,Asha,24,Female,Kochi,Video Editing,Digital Marketing,Intermediate,Hindi,Hybrid,Weekend,3.6,24
+U0246,Rahul,38,Male,Thrissur,Digital Marketing,Video Editing,Advanced,Hindi,Hybrid,Weekend,4.8,1
+U0247,Fathima,19,Female,Kozhikode,IoT,HTML,Beginner,Hindi,Hybrid,Afternoon,4.9,9
+U0248,Joel,19,Male,Kochi,HTML,IoT,Advanced,Hindi,Hybrid,Afternoon,3.7,10
+U0249,Maya,34,Female,Kochi,PowerPoint,Spoken English,Beginner,Hindi,Online,Afternoon,4.0,23
+U0250,Kiran,38,Female,Kannur,Spoken English,PowerPoint,Beginner,Hindi,Online,Afternoon,4.6,25
+U0251,Keerthana,38,Female,Kozhikode,PowerPoint,Public Speaking,Advanced,Malayalam,Offline,Afternoon,3.6,21
+U0252,Sneha,23,Male,Kozhikode,Public Speaking,PowerPoint,Intermediate,Malayalam,Online,Afternoon,3.5,12
+U0253,Anu,36,Male,Kochi,JavaScript,Spoken English,Advanced,Tamil,Offline,Evening,4.5,1
+U0254,Vivek,21,Female,Kochi,Spoken English,JavaScript,Beginner,Tamil,Offline,Evening,4.5,22
+U0255,Priya,37,Male,Kollam,Yoga,PowerPoint,Beginner,English,Offline,Evening,3.7,23
+U0256,Keerthana,29,Female,Kannur,PowerPoint,Yoga,Advanced,English,Offline,Evening,4.6,25
+U0257,Vivek,37,Male,Thrissur,Digital Marketing,AI Basics,Intermediate,Malayalam,Hybrid,Afternoon,4.6,2
+U0258,Fathima,36,Male,Thiruvananthapuram,AI Basics,Digital Marketing,Advanced,Malayalam,Hybrid,Afternoon,3.8,17
+U0259,Sneha,39,Male,Kannur,SQL,CSS,Advanced,Tamil,Offline,Weekend,3.6,16
+U0260,Kiran,19,Female,Kollam,CSS,SQL,Advanced,Tamil,Offline,Weekend,4.2,1
+U0261,Sanjay,26,Male,Kannur,Hindi,Photography,Beginner,Tamil,Hybrid,Morning,3.6,13
+U0262,Priya,40,Male,Thrissur,Photography,Hindi,Beginner,Tamil,Online,Morning,5.0,15
+U0263,Harsha,22,Female,Kochi,Java,Photoshop,Intermediate,Hindi,Offline,Afternoon,4.8,12
+U0264,Sanjay,20,Male,Kannur,Photoshop,Java,Intermediate,Hindi,Online,Afternoon,3.8,17
+U0265,Abin,18,Male,Kochi,Graphic Design,Hindi,Intermediate,Malayalam,Hybrid,Afternoon,4.6,13
+U0266,Rohit,30,Male,Kollam,Hindi,Graphic Design,Intermediate,Malayalam,Offline,Afternoon,3.7,6
+U0267,Sreya,39,Female,Thrissur,IoT,Arduino,Beginner,English,Online,Morning,3.8,3
+U0268,Keerthana,19,Female,Thrissur,Arduino,IoT,Advanced,English,Hybrid,Morning,4.8,7
+U0269,Diya,35,Male,Thiruvananthapuram,Guitar,Java,Beginner,Hindi,Hybrid,Weekend,5.0,7
+U0270,Abin,36,Female,Thrissur,Java,Guitar,Advanced,Hindi,Hybrid,Weekend,4.7,7
+U0271,Neha,27,Female,Thiruvananthapuram,PowerPoint,IoT,Advanced,Malayalam,Hybrid,Afternoon,4.8,5
+U0272,Asha,39,Female,Thrissur,IoT,PowerPoint,Intermediate,Malayalam,Online,Afternoon,5.0,20
+U0273,Neha,22,Female,Kozhikode,Digital Marketing,Graphic Design,Beginner,Tamil,Hybrid,Weekend,4.2,7
+U0274,Anu,40,Male,Kozhikode,Graphic Design,Digital Marketing,Beginner,Tamil,Hybrid,Weekend,4.1,13
+U0275,Diya,26,Male,Kochi,Hindi,Malayalam,Advanced,Malayalam,Online,Weekend,4.9,11
+U0276,Rahul,35,Male,Thiruvananthapuram,Malayalam,Hindi,Intermediate,Malayalam,Offline,Weekend,4.5,19
+U0277,Sreya,36,Male,Kozhikode,Java,Arduino,Beginner,English,Offline,Afternoon,4.0,0
+U0278,Vishnu,24,Male,Kannur,Arduino,Java,Intermediate,English,Online,Afternoon,4.5,22
+U0279,Harsha,27,Female,Kozhikode,CSS,Video Editing,Advanced,Malayalam,Hybrid,Evening,4.0,8
+U0280,Priya,34,Female,Kozhikode,Video Editing,CSS,Beginner,Malayalam,Hybrid,Evening,4.2,10
+U0281,Neha,19,Male,Kannur,IoT,CSS,Beginner,Tamil,Online,Evening,3.9,18
+U0282,Dev,31,Female,Kollam,CSS,IoT,Beginner,Tamil,Offline,Evening,3.8,18
+U0283,Nikhil,33,Female,Kozhikode,Machine Learning,JavaScript,Beginner,Hindi,Hybrid,Evening,4.7,5
+U0284,Arun,35,Female,Kollam,JavaScript,Machine Learning,Advanced,Hindi,Hybrid,Evening,4.9,16
+U0285,Harsha,18,Female,Kollam,Java,AI Basics,Advanced,English,Online,Morning,3.6,4
+U0286,Aarav,24,Female,Kochi,AI Basics,Java,Beginner,English,Hybrid,Morning,4.5,19
+U0287,Aarav,35,Female,Thiruvananthapuram,IoT,Spoken English,Beginner,Hindi,Hybrid,Morning,4.6,17
+U0288,Anu,18,Female,Kollam,Spoken English,IoT,Beginner,Hindi,Online,Morning,4.3,7
+U0289,Nikhil,30,Male,Kochi,CSS,Resume Writing,Intermediate,Tamil,Offline,Evening,4.3,22
+U0290,Diya,27,Male,Kannur,Resume Writing,CSS,Advanced,Tamil,Online,Evening,3.6,12
+U0291,Asha,18,Male,Thiruvananthapuram,Graphic Design,Tamil,Intermediate,Hindi,Offline,Morning,4.5,10
+U0292,Dev,21,Male,Kollam,Tamil,Graphic Design,Beginner,Hindi,Hybrid,Morning,4.8,15
+U0293,Joel,35,Male,Kollam,Excel,Java,Intermediate,English,Online,Evening,4.9,18
+U0294,Arun,40,Female,Thiruvananthapuram,Java,Excel,Intermediate,English,Online,Evening,4.3,18
+U0295,Sanjay,22,Male,Thrissur,Machine Learning,Arduino,Advanced,Hindi,Offline,Evening,3.6,13
+U0296,Diya,20,Female,Thrissur,Arduino,Machine Learning,Advanced,Hindi,Hybrid,Evening,4.1,24
+U0297,Akhil,25,Female,Thrissur,Photoshop,Python,Intermediate,Tamil,Offline,Weekend,3.8,18
+U0298,Vivek,30,Male,Thrissur,Python,Photoshop,Intermediate,Tamil,Online,Weekend,4.6,2
+U0299,Naveen,30,Female,Kochi,Excel,SQL,Beginner,Hindi,Online,Afternoon,3.5,9
+U0300,Kiran,29,Female,Thiruvananthapuram,SQL,Excel,Beginner,Hindi,Online,Afternoon,3.8,14
+U0301,Aarav,20,Female,Thrissur,Hindi,Tamil,Beginner,Hindi,Hybrid,Morning,4.4,10
+U0302,Maya,30,Male,Kochi,Tamil,Hindi,Intermediate,Hindi,Offline,Morning,4.7,23
+U0303,Vivek,30,Male,Kollam,Arduino,Hindi,Intermediate,Malayalam,Offline,Afternoon,3.9,4
+U0304,Rahul,23,Female,Kochi,Hindi,Arduino,Intermediate,Malayalam,Offline,Afternoon,4.2,2
+U0305,Keerthana,37,Male,Kozhikode,Canva,Excel,Beginner,Malayalam,Online,Weekend,4.0,12
+U0306,Akash,37,Female,Kochi,Excel,Canva,Intermediate,Malayalam,Offline,Weekend,4.1,20
+U0307,Keerthana,40,Male,Kozhikode,Public Speaking,SQL,Intermediate,Tamil,Online,Evening,4.9,10
+U0308,Anu,40,Female,Thrissur,SQL,Public Speaking,Beginner,Tamil,Offline,Evening,4.1,25
+U0309,Dev,35,Male,Kannur,Graphic Design,Canva,Advanced,English,Online,Afternoon,4.9,14
+U0310,Riya,24,Female,Kochi,Canva,Graphic Design,Advanced,English,Online,Afternoon,4.7,25
+U0311,Asha,27,Male,Kochi,Data Analysis,Video Editing,Advanced,Hindi,Online,Afternoon,4.6,25
+U0312,Sanjay,20,Female,Thrissur,Video Editing,Data Analysis,Intermediate,Hindi,Hybrid,Afternoon,4.1,16
+U0313,Sreya,29,Male,Thiruvananthapuram,IoT,AI Basics,Beginner,Hindi,Hybrid,Morning,4.5,5
+U0314,Asha,37,Male,Thrissur,AI Basics,IoT,Advanced,Hindi,Hybrid,Morning,4.5,24
+U0315,Aarav,21,Female,Kollam,Photoshop,Machine Learning,Advanced,Hindi,Hybrid,Morning,4.3,18
+U0316,Riya,36,Male,Kozhikode,Machine Learning,Photoshop,Intermediate,Hindi,Offline,Morning,4.2,21
+U0317,Aarav,33,Male,Kochi,Tamil,Guitar,Intermediate,Malayalam,Online,Evening,3.7,23
+U0318,Arun,29,Female,Kochi,Guitar,Tamil,Intermediate,Malayalam,Online,Evening,4.3,11
+U0319,Akash,20,Female,Thiruvananthapuram,Spoken English,C++,Advanced,Hindi,Online,Weekend,3.5,10
+U0320,Asha,21,Male,Kannur,C++,Spoken English,Beginner,Hindi,Hybrid,Weekend,3.8,5
+U0321,Diya,30,Male,Kollam,Photoshop,Tamil,Advanced,Hindi,Hybrid,Weekend,4.1,0
+U0322,Naveen,37,Male,Kozhikode,Tamil,Photoshop,Advanced,Hindi,Offline,Weekend,4.1,22
+U0323,Dev,21,Male,Kochi,CSS,JavaScript,Intermediate,Tamil,Online,Morning,4.2,8
+U0324,Vivek,33,Female,Thrissur,JavaScript,CSS,Intermediate,Tamil,Hybrid,Morning,4.1,3
+U0325,Abin,39,Female,Thrissur,Canva,Graphic Design,Advanced,Hindi,Online,Afternoon,4.5,10
+U0326,Sneha,25,Female,Thiruvananthapuram,Graphic Design,Canva,Beginner,Hindi,Offline,Afternoon,4.5,16
+U0327,Neha,23,Female,Kannur,Graphic Design,Photography,Advanced,Malayalam,Hybrid,Weekend,4.9,5
+U0328,Rohit,23,Female,Kochi,Photography,Graphic Design,Beginner,Malayalam,Online,Weekend,4.0,14
+U0329,Akhil,22,Male,Kozhikode,Public Speaking,Java,Advanced,Tamil,Hybrid,Morning,4.5,13
+U0330,Vivek,33,Female,Kannur,Java,Public Speaking,Intermediate,Tamil,Offline,Morning,3.8,18
+U0331,Anjali,26,Male,Thrissur,Python,Machine Learning,Intermediate,Malayalam,Online,Evening,4.7,18
+U0332,Naveen,33,Male,Thrissur,Machine Learning,Python,Beginner,Malayalam,Offline,Evening,4.7,11
+U0333,Rohit,24,Female,Thiruvananthapuram,Hindi,AI Basics,Advanced,English,Hybrid,Weekend,4.6,9
+U0334,Maya,19,Female,Kochi,AI Basics,Hindi,Intermediate,English,Online,Weekend,4.2,3
+U0335,Sreya,36,Female,Kannur,Yoga,Machine Learning,Advanced,Malayalam,Hybrid,Afternoon,4.1,19
+U0336,Arun,24,Male,Thiruvananthapuram,Machine Learning,Yoga,Advanced,Malayalam,Offline,Afternoon,4.3,19
+U0337,Anu,36,Female,Thrissur,Hindi,HTML,Advanced,Tamil,Online,Evening,3.7,24
+U0338,Sreya,31,Male,Kochi,HTML,Hindi,Advanced,Tamil,Online,Evening,4.6,4
+U0339,Harsha,39,Female,Kozhikode,JavaScript,SQL,Beginner,Tamil,Hybrid,Afternoon,4.4,20
+U0340,Neha,30,Female,Thiruvananthapuram,SQL,JavaScript,Advanced,Tamil,Online,Afternoon,4.1,23
+U0341,Akhil,28,Male,Kannur,Excel,Guitar,Beginner,Tamil,Hybrid,Weekend,5.0,20
+U0342,Vivek,40,Female,Thiruvananthapuram,Guitar,Excel,Advanced,Tamil,Offline,Weekend,3.8,13
+U0343,Akash,27,Female,Thrissur,Machine Learning,CSS,Advanced,Hindi,Online,Evening,4.3,15
+U0344,Sreya,28,Male,Thiruvananthapuram,CSS,Machine Learning,Beginner,Hindi,Hybrid,Evening,4.7,14
+U0345,Kiran,18,Female,Kollam,Python,SQL,Advanced,Malayalam,Online,Weekend,4.8,9
+U0346,Meera,26,Male,Kannur,SQL,Python,Intermediate,Malayalam,Offline,Weekend,3.6,21
+U0347,Sanjay,38,Female,Kannur,Arduino,Resume Writing,Advanced,Malayalam,Online,Morning,4.1,2
+U0348,Riya,21,Male,Kollam,Resume Writing,Arduino,Intermediate,Malayalam,Online,Morning,3.7,7
+U0349,Aarav,40,Female,Thiruvananthapuram,Malayalam,Cooking,Intermediate,Hindi,Hybrid,Morning,3.7,2
+U0350,Diya,30,Male,Kannur,Cooking,Malayalam,Beginner,Hindi,Online,Morning,4.0,9
+U0351,Rahul,34,Male,Thrissur,SQL,Video Editing,Advanced,Malayalam,Online,Afternoon,4.2,23
+U0352,Vishnu,38,Male,Kozhikode,Video Editing,SQL,Advanced,Malayalam,Hybrid,Afternoon,4.2,6
+U0353,Harsha,21,Female,Kochi,C,IoT,Intermediate,English,Offline,Afternoon,4.7,7
+U0354,Nikhil,38,Male,Kollam,IoT,C,Advanced,English,Hybrid,Afternoon,4.4,19
+U0355,Vishnu,34,Male,Kannur,PowerPoint,Data Analysis,Intermediate,English,Offline,Evening,4.5,25
+U0356,Joel,25,Female,Kozhikode,Data Analysis,PowerPoint,Beginner,English,Online,Evening,4.2,19
+U0357,Fathima,28,Male,Kozhikode,C,Hindi,Advanced,English,Offline,Evening,4.0,21
+U0358,Meera,33,Male,Thiruvananthapuram,Hindi,C,Advanced,English,Online,Evening,3.5,6
+U0359,Asha,40,Female,Kozhikode,Java,C,Advanced,Hindi,Offline,Evening,3.6,17
+U0360,Rohit,37,Male,Kochi,C,Java,Beginner,Hindi,Offline,Evening,3.6,6
+U0361,Dev,38,Male,Kochi,Data Analysis,SQL,Advanced,Tamil,Offline,Weekend,4.6,7
+U0362,Anjali,25,Male,Kozhikode,SQL,Data Analysis,Beginner,Tamil,Offline,Weekend,4.4,1
+U0363,Aarav,40,Male,Kannur,PowerPoint,Cooking,Beginner,Malayalam,Online,Morning,4.2,11
+U0364,Athira,34,Female,Kollam,Cooking,PowerPoint,Intermediate,Malayalam,Online,Morning,4.6,8
+U0365,Akash,31,Female,Thrissur,Guitar,IoT,Beginner,English,Offline,Morning,4.6,18
+U0366,Asha,20,Female,Kozhikode,IoT,Guitar,Advanced,English,Offline,Morning,3.6,18
+U0367,Harsha,21,Male,Kollam,HTML,Graphic Design,Advanced,Malayalam,Hybrid,Evening,3.5,0
+U0368,Diya,19,Female,Kochi,Graphic Design,HTML,Intermediate,Malayalam,Online,Evening,3.8,1
+U0369,Akash,25,Female,Kannur,Hindi,Machine Learning,Intermediate,Hindi,Offline,Afternoon,4.7,18
+U0370,Priya,21,Male,Kollam,Machine Learning,Hindi,Beginner,Hindi,Hybrid,Afternoon,5.0,12
+U0371,Harsha,27,Female,Thiruvananthapuram,C,IoT,Advanced,Hindi,Offline,Evening,3.5,6
+U0372,Anu,36,Female,Kannur,IoT,C,Advanced,Hindi,Online,Evening,4.2,18
+U0373,Arun,18,Female,Thiruvananthapuram,Spoken English,Data Analysis,Beginner,Malayalam,Hybrid,Afternoon,4.0,22
+U0374,Joel,18,Female,Thiruvananthapuram,Data Analysis,Spoken English,Advanced,Malayalam,Offline,Afternoon,4.8,23
+U0375,Neha,33,Male,Kollam,PowerPoint,C++,Advanced,Malayalam,Offline,Afternoon,3.6,7
+U0376,Joel,34,Female,Kannur,C++,PowerPoint,Intermediate,Malayalam,Offline,Afternoon,5.0,2
+U0377,Rahul,36,Male,Kozhikode,Tamil,C++,Advanced,Malayalam,Online,Weekend,3.9,8
+U0378,Maya,28,Female,Kannur,C++,Tamil,Advanced,Malayalam,Offline,Weekend,4.0,8
+U0379,Harsha,36,Male,Kollam,JavaScript,C,Beginner,Malayalam,Online,Afternoon,4.2,10
+U0380,Neha,21,Female,Kollam,C,JavaScript,Intermediate,Malayalam,Offline,Afternoon,4.2,3
+U0381,Vishnu,28,Male,Thiruvananthapuram,C,CSS,Advanced,Tamil,Online,Morning,5.0,12
+U0382,Athira,19,Female,Kochi,CSS,C,Beginner,Tamil,Online,Morning,4.9,14
+U0383,Kiran,21,Male,Thiruvananthapuram,Hindi,Yoga,Beginner,Malayalam,Online,Morning,4.7,7
+U0384,Arun,24,Female,Kochi,Yoga,Hindi,Advanced,Malayalam,Hybrid,Morning,4.9,2
+U0385,Aarav,20,Male,Kannur,Tamil,Public Speaking,Intermediate,Tamil,Online,Morning,3.6,25
+U0386,Akash,21,Male,Kozhikode,Public Speaking,Tamil,Beginner,Tamil,Online,Morning,4.9,13
+U0387,Aarav,30,Female,Kollam,Machine Learning,Guitar,Intermediate,Hindi,Online,Weekend,4.9,8
+U0388,Nikhil,32,Male,Thiruvananthapuram,Guitar,Machine Learning,Advanced,Hindi,Hybrid,Weekend,4.4,20
+U0389,Anjali,20,Female,Kozhikode,PowerPoint,Malayalam,Beginner,Hindi,Offline,Weekend,3.8,25
+U0390,Athira,25,Male,Kozhikode,Malayalam,PowerPoint,Advanced,Hindi,Offline,Weekend,4.2,25
+U0391,Nikhil,23,Male,Kochi,Spoken English,Canva,Advanced,Tamil,Online,Weekend,3.5,25
+U0392,Harsha,26,Male,Kozhikode,Canva,Spoken English,Advanced,Tamil,Offline,Weekend,4.7,7
+U0393,Nikhil,35,Male,Kollam,HTML,C++,Advanced,Malayalam,Offline,Afternoon,4.0,5
+U0394,Meera,25,Female,Kannur,C++,HTML,Advanced,Malayalam,Offline,Afternoon,4.9,0
+U0395,Dev,24,Female,Thrissur,Cooking,Guitar,Intermediate,Tamil,Online,Afternoon,4.2,2
+U0396,Anjali,25,Male,Thiruvananthapuram,Guitar,Cooking,Advanced,Tamil,Offline,Afternoon,3.5,19
+U0397,Riya,23,Female,Thiruvananthapuram,CSS,Machine Learning,Beginner,Malayalam,Online,Evening,4.4,4
+U0398,Harsha,21,Female,Thiruvananthapuram,Machine Learning,CSS,Intermediate,Malayalam,Hybrid,Evening,4.9,12
+U0399,Akash,22,Male,Kannur,Tamil,C++,Intermediate,Tamil,Hybrid,Evening,4.9,20
+U0400,Akash,23,Female,Kollam,C++,Tamil,Advanced,Tamil,Hybrid,Evening,4.7,12
+U0401,Meera,18,Female,Thrissur,PowerPoint,Yoga,Beginner,Tamil,Online,Afternoon,4.4,25
+U0402,Keerthana,25,Male,Kozhikode,Yoga,PowerPoint,Beginner,Tamil,Offline,Afternoon,4.6,7
+U0403,Abin,40,Female,Kozhikode,Canva,Photoshop,Beginner,Malayalam,Offline,Morning,3.8,22
+U0404,Rahul,29,Female,Thiruvananthapuram,Photoshop,Canva,Advanced,Malayalam,Online,Morning,3.6,14
+U0405,Akhil,30,Female,Thrissur,Guitar,Video Editing,Intermediate,Malayalam,Online,Weekend,4.7,25
+U0406,Maya,36,Male,Kollam,Video Editing,Guitar,Intermediate,Malayalam,Online,Weekend,4.7,1
+U0407,Sneha,20,Female,Kollam,PowerPoint,Python,Intermediate,Tamil,Online,Evening,4.6,17
+U0408,Joel,20,Female,Thrissur,Python,PowerPoint,Advanced,Tamil,Offline,Evening,4.6,13
+U0409,Anjali,21,Female,Kollam,Resume Writing,HTML,Beginner,Hindi,Offline,Afternoon,4.5,23
+U0410,Fathima,35,Female,Kannur,HTML,Resume Writing,Intermediate,Hindi,Offline,Afternoon,3.9,1
+U0411,Anjali,29,Male,Kozhikode,Graphic Design,Public Speaking,Beginner,Hindi,Offline,Afternoon,4.7,20
+U0412,Keerthana,33,Male,Thiruvananthapuram,Public Speaking,Graphic Design,Beginner,Hindi,Online,Afternoon,3.8,9
+U0413,Sreya,30,Female,Kozhikode,C,Malayalam,Advanced,English,Offline,Evening,3.6,17
+U0414,Sanjay,23,Female,Kozhikode,Malayalam,C,Intermediate,English,Online,Evening,4.2,8
+U0415,Abin,26,Male,Kollam,Photography,Spoken English,Advanced,Tamil,Hybrid,Afternoon,3.6,21
+U0416,Priya,35,Female,Thrissur,Spoken English,Photography,Beginner,Tamil,Hybrid,Afternoon,3.6,12
+U0417,Dev,25,Female,Kochi,Machine Learning,Malayalam,Beginner,Hindi,Offline,Weekend,4.9,22
+U0418,Anjali,34,Male,Thiruvananthapuram,Malayalam,Machine Learning,Intermediate,Hindi,Online,Weekend,4.9,5
+U0419,Anjali,31,Male,Kannur,CSS,Machine Learning,Intermediate,Malayalam,Online,Afternoon,5.0,20
+U0420,Arun,37,Female,Kochi,Machine Learning,CSS,Advanced,Malayalam,Online,Afternoon,3.6,17
+U0421,Athira,32,Male,Kannur,Graphic Design,Tamil,Advanced,Tamil,Hybrid,Evening,4.3,13
+U0422,Sneha,31,Male,Kollam,Tamil,Graphic Design,Advanced,Tamil,Hybrid,Evening,4.4,3
+U0423,Maya,35,Female,Kozhikode,IoT,C++,Intermediate,English,Offline,Evening,4.5,18
+U0424,Keerthana,33,Male,Kollam,C++,IoT,Intermediate,English,Offline,Evening,3.7,19
+U0425,Sanjay,28,Male,Thiruvananthapuram,Digital Marketing,Guitar,Advanced,Hindi,Offline,Morning,4.9,11
+U0426,Aarav,28,Female,Kochi,Guitar,Digital Marketing,Intermediate,Hindi,Offline,Morning,4.8,21
+U0427,Anu,32,Female,Kochi,C++,Arduino,Advanced,Malayalam,Offline,Afternoon,4.4,2
+U0428,Vishnu,32,Male,Kozhikode,Arduino,C++,Advanced,Malayalam,Offline,Afternoon,4.6,11
+U0429,Anu,40,Female,Kollam,Machine Learning,Java,Advanced,Malayalam,Hybrid,Morning,3.5,6
+U0430,Joel,24,Male,Kollam,Java,Machine Learning,Beginner,Malayalam,Offline,Morning,3.6,11
+U0431,Abin,32,Female,Kannur,Cooking,CSS,Beginner,Tamil,Hybrid,Evening,3.5,11
+U0432,Akhil,37,Female,Kollam,CSS,Cooking,Intermediate,Tamil,Hybrid,Evening,4.3,11
+U0433,Anu,18,Female,Thiruvananthapuram,HTML,AI Basics,Beginner,Tamil,Hybrid,Morning,4.7,6
+U0434,Maya,25,Male,Kannur,AI Basics,HTML,Beginner,Tamil,Offline,Morning,4.5,16
+U0435,Fathima,22,Male,Thrissur,Python,Arduino,Beginner,English,Online,Weekend,3.9,25
+U0436,Anu,40,Female,Kozhikode,Arduino,Python,Intermediate,English,Offline,Weekend,4.2,6
+U0437,Aarav,34,Female,Thrissur,Photography,PowerPoint,Advanced,Hindi,Hybrid,Morning,4.4,9
+U0438,Vivek,21,Female,Thiruvananthapuram,PowerPoint,Photography,Intermediate,Hindi,Offline,Morning,4.5,8
+U0439,Arun,34,Male,Thiruvananthapuram,Excel,Digital Marketing,Advanced,Tamil,Offline,Afternoon,4.5,21
+U0440,Arun,18,Female,Kochi,Digital Marketing,Excel,Intermediate,Tamil,Offline,Afternoon,4.1,23
+U0441,Naveen,40,Male,Kannur,Java,Public Speaking,Advanced,Malayalam,Hybrid,Evening,4.7,21
+U0442,Priya,34,Female,Kollam,Public Speaking,Java,Advanced,Malayalam,Hybrid,Evening,3.8,3
+U0443,Vivek,28,Male,Kollam,Spoken English,SQL,Intermediate,Tamil,Online,Afternoon,4.6,9
+U0444,Neha,28,Female,Kochi,SQL,Spoken English,Advanced,Tamil,Offline,Afternoon,4.2,3
+U0445,Joel,24,Male,Kannur,Spoken English,Java,Intermediate,English,Hybrid,Weekend,3.9,1
+U0446,Maya,22,Male,Kollam,Java,Spoken English,Intermediate,English,Offline,Weekend,5.0,14
+U0447,Akhil,28,Male,Kochi,SQL,Canva,Advanced,Malayalam,Online,Morning,3.5,8
+U0448,Vishnu,23,Male,Kozhikode,Canva,SQL,Beginner,Malayalam,Online,Morning,4.4,20
+U0449,Sanjay,18,Male,Thrissur,Video Editing,Graphic Design,Beginner,Hindi,Hybrid,Weekend,4.1,0
+U0450,Joel,28,Male,Thiruvananthapuram,Graphic Design,Video Editing,Advanced,Hindi,Online,Weekend,4.4,7
+U0451,Arun,21,Female,Thrissur,JavaScript,Guitar,Advanced,Tamil,Offline,Evening,3.8,1
+U0452,Anu,27,Female,Kannur,Guitar,JavaScript,Advanced,Tamil,Hybrid,Evening,4.3,13
+U0453,Joel,33,Female,Kollam,Arduino,Digital Marketing,Beginner,Malayalam,Offline,Evening,3.5,7
+U0454,Naveen,22,Male,Kannur,Digital Marketing,Arduino,Beginner,Malayalam,Hybrid,Evening,4.3,3
+U0455,Joel,38,Female,Thrissur,Canva,Guitar,Advanced,English,Online,Weekend,4.4,1
+U0456,Vivek,21,Male,Thiruvananthapuram,Guitar,Canva,Advanced,English,Online,Weekend,4.1,12
+U0457,Riya,22,Male,Kannur,C++,Tamil,Advanced,Tamil,Hybrid,Weekend,3.5,13
+U0458,Vivek,21,Female,Thrissur,Tamil,C++,Advanced,Tamil,Hybrid,Weekend,3.7,3
+U0459,Sneha,21,Female,Kollam,Malayalam,Yoga,Advanced,English,Online,Evening,4.7,16
+U0460,Vishnu,29,Female,Kochi,Yoga,Malayalam,Beginner,English,Online,Evening,4.3,6
+U0461,Aarav,18,Male,Thiruvananthapuram,Cooking,Spoken English,Advanced,Tamil,Hybrid,Afternoon,4.2,2
+U0462,Harsha,34,Male,Kannur,Spoken English,Cooking,Advanced,Tamil,Online,Afternoon,4.9,20
+U0463,Kiran,19,Male,Kollam,JavaScript,Spoken English,Beginner,Tamil,Offline,Evening,4.0,21
+U0464,Akash,31,Male,Thiruvananthapuram,Spoken English,JavaScript,Beginner,Tamil,Online,Evening,4.8,21
+U0465,Joel,32,Female,Kannur,Resume Writing,HTML,Beginner,Tamil,Offline,Evening,4.7,5
+U0466,Sneha,30,Female,Kozhikode,HTML,Resume Writing,Intermediate,Tamil,Offline,Evening,4.5,15
+U0467,Arun,40,Male,Kollam,Data Analysis,Video Editing,Beginner,Malayalam,Offline,Morning,4.9,15
+U0468,Sreya,36,Female,Kollam,Video Editing,Data Analysis,Advanced,Malayalam,Offline,Morning,4.7,19
+U0469,Fathima,33,Male,Kozhikode,Python,Arduino,Intermediate,Malayalam,Online,Weekend,3.6,20
+U0470,Akash,18,Male,Kannur,Arduino,Python,Intermediate,Malayalam,Hybrid,Weekend,4.3,22
+U0471,Akhil,29,Female,Kollam,Public Speaking,C++,Advanced,Hindi,Hybrid,Afternoon,3.6,20
+U0472,Fathima,23,Female,Kozhikode,C++,Public Speaking,Beginner,Hindi,Online,Afternoon,4.6,10
+U0473,Athira,25,Female,Kozhikode,JavaScript,Canva,Beginner,Tamil,Online,Morning,4.2,25
+U0474,Dev,32,Male,Kozhikode,Canva,JavaScript,Intermediate,Tamil,Offline,Morning,3.7,15
+U0475,Sanjay,31,Male,Thrissur,Guitar,Resume Writing,Advanced,English,Online,Morning,4.7,25
+U0476,Keerthana,37,Female,Thrissur,Resume Writing,Guitar,Advanced,English,Online,Morning,4.5,14
+U0477,Maya,32,Female,Thrissur,Photoshop,Graphic Design,Advanced,English,Hybrid,Afternoon,4.2,21
+U0478,Priya,40,Female,Thiruvananthapuram,Graphic Design,Photoshop,Beginner,English,Hybrid,Afternoon,3.8,10
+U0479,Riya,21,Male,Kollam,Canva,AI Basics,Intermediate,Tamil,Online,Evening,4.7,23
+U0480,Naveen,31,Male,Kochi,AI Basics,Canva,Advanced,Tamil,Online,Evening,3.8,12
+U0481,Sneha,31,Male,Kannur,CSS,Spoken English,Advanced,Malayalam,Hybrid,Evening,3.7,14
+U0482,Kiran,39,Male,Kozhikode,Spoken English,CSS,Beginner,Malayalam,Hybrid,Evening,4.6,17
+U0483,Riya,36,Male,Kannur,IoT,Video Editing,Beginner,Hindi,Online,Afternoon,4.1,19
+U0484,Keerthana,28,Female,Kozhikode,Video Editing,IoT,Advanced,Hindi,Hybrid,Afternoon,4.6,8
+U0485,Sreya,22,Male,Kozhikode,Graphic Design,Photoshop,Advanced,Tamil,Hybrid,Weekend,4.8,16
+U0486,Anu,40,Female,Kannur,Photoshop,Graphic Design,Advanced,Tamil,Hybrid,Weekend,4.4,6
+U0487,Fathima,39,Male,Kannur,CSS,Resume Writing,Advanced,Tamil,Online,Evening,4.3,22
+U0488,Asha,28,Male,Kochi,Resume Writing,CSS,Advanced,Tamil,Offline,Evening,4.4,21
+U0489,Sreya,18,Male,Thiruvananthapuram,Cooking,Video Editing,Intermediate,Tamil,Online,Weekend,3.6,1
+U0490,Vishnu,26,Male,Kochi,Video Editing,Cooking,Advanced,Tamil,Offline,Weekend,3.7,1
+U0491,Harsha,35,Male,Kochi,Cooking,Machine Learning,Intermediate,Tamil,Online,Afternoon,4.4,21
+U0492,Naveen,35,Male,Kannur,Machine Learning,Cooking,Advanced,Tamil,Hybrid,Afternoon,4.1,16
+U0493,Fathima,30,Female,Kozhikode,Data Analysis,Machine Learning,Advanced,Tamil,Offline,Morning,4.9,1
+U0494,Aarav,26,Male,Thrissur,Machine Learning,Data Analysis,Intermediate,Tamil,Online,Morning,4.9,22
+U0495,Harsha,24,Female,Kozhikode,Cooking,Resume Writing,Beginner,Tamil,Hybrid,Afternoon,3.6,5
+U0496,Naveen,34,Male,Kozhikode,Resume Writing,Cooking,Beginner,Tamil,Offline,Afternoon,3.9,8
+U0497,Akash,32,Male,Thiruvananthapuram,SQL,CSS,Beginner,Tamil,Offline,Morning,4.4,24
+U0498,Fathima,38,Female,Kozhikode,CSS,SQL,Advanced,Tamil,Hybrid,Morning,4.0,25
+U0499,Athira,20,Male,Kozhikode,Cooking,Photoshop,Advanced,Malayalam,Hybrid,Afternoon,4.1,11
+U0500,Diya,24,Female,Kochi,Photoshop,Cooking,Intermediate,Malayalam,Offline,Afternoon,3.8,24
+U0501,Sneha,39,Female,Kozhikode,Public Speaking,Malayalam,Beginner,Hindi,Hybrid,Morning,4.4,19
+U0502,Diya,19,Female,Kozhikode,Malayalam,Public Speaking,Beginner,Hindi,Offline,Morning,3.9,23
+U0503,Akhil,19,Female,Kannur,PowerPoint,Python,Beginner,Tamil,Offline,Weekend,4.3,3
+U0504,Meera,35,Male,Kannur,Python,PowerPoint,Beginner,Tamil,Online,Weekend,4.5,24
+U0505,Vishnu,35,Female,Kannur,CSS,Arduino,Beginner,Hindi,Hybrid,Morning,4.5,0
+U0506,Kiran,40,Female,Thiruvananthapuram,Arduino,CSS,Beginner,Hindi,Online,Morning,3.6,25
+U0507,Fathima,26,Female,Kozhikode,Excel,Tamil,Intermediate,English,Hybrid,Afternoon,4.1,10
+U0508,Aarav,30,Male,Thrissur,Tamil,Excel,Beginner,English,Hybrid,Afternoon,4.6,2
+U0509,Priya,34,Male,Kochi,Yoga,Guitar,Advanced,English,Offline,Morning,4.4,9
+U0510,Harsha,32,Female,Kozhikode,Guitar,Yoga,Advanced,English,Online,Morning,4.2,17
+U0511,Asha,22,Female,Kannur,JavaScript,SQL,Advanced,Hindi,Hybrid,Evening,4.1,0
+U0512,Rohit,35,Male,Thiruvananthapuram,SQL,JavaScript,Beginner,Hindi,Online,Evening,4.4,12
+U0513,Vishnu,29,Male,Kozhikode,Hindi,Tamil,Advanced,English,Hybrid,Evening,3.7,5
+U0514,Diya,37,Female,Kollam,Tamil,Hindi,Beginner,English,Online,Evening,4.5,18
+U0515,Anu,39,Male,Kochi,AI Basics,Java,Beginner,Hindi,Online,Morning,4.6,15
+U0516,Akash,29,Male,Kannur,Java,AI Basics,Advanced,Hindi,Online,Morning,3.7,19
+U0517,Akhil,32,Female,Thrissur,C,IoT,Advanced,Malayalam,Offline,Evening,4.5,4
+U0518,Dev,36,Female,Kochi,IoT,C,Intermediate,Malayalam,Online,Evening,3.5,7
+U0519,Abin,29,Male,Kannur,Data Analysis,JavaScript,Advanced,Hindi,Offline,Evening,4.8,14
+U0520,Kiran,29,Female,Kozhikode,JavaScript,Data Analysis,Advanced,Hindi,Online,Evening,3.8,19
+U0521,Joel,35,Male,Kochi,C,AI Basics,Advanced,Tamil,Hybrid,Afternoon,3.6,2
+U0522,Joel,18,Male,Thrissur,AI Basics,C,Advanced,Tamil,Offline,Afternoon,4.7,6
+U0523,Asha,22,Female,Kozhikode,IoT,Java,Beginner,Tamil,Hybrid,Weekend,4.6,9
+U0524,Arun,32,Male,Kozhikode,Java,IoT,Intermediate,Tamil,Hybrid,Weekend,3.5,7
+U0525,Kiran,23,Male,Thrissur,AI Basics,Data Analysis,Advanced,Malayalam,Hybrid,Afternoon,4.8,4
+U0526,Naveen,33,Female,Thiruvananthapuram,Data Analysis,AI Basics,Beginner,Malayalam,Offline,Afternoon,3.8,8
+U0527,Athira,29,Female,Kozhikode,Canva,JavaScript,Intermediate,English,Online,Afternoon,3.6,20
+U0528,Akash,21,Female,Kannur,JavaScript,Canva,Intermediate,English,Hybrid,Afternoon,4.3,5
+U0529,Dev,38,Male,Thrissur,Graphic Design,Digital Marketing,Intermediate,Hindi,Offline,Evening,5.0,7
+U0530,Athira,30,Female,Kochi,Digital Marketing,Graphic Design,Intermediate,Hindi,Offline,Evening,4.8,0
+U0531,Meera,25,Male,Thrissur,Malayalam,IoT,Advanced,Malayalam,Offline,Weekend,3.8,5
+U0532,Meera,29,Male,Kannur,IoT,Malayalam,Beginner,Malayalam,Offline,Weekend,4.7,23
+U0533,Vishnu,36,Male,Kannur,C++,Malayalam,Intermediate,Hindi,Online,Weekend,3.9,4
+U0534,Dev,36,Male,Kollam,Malayalam,C++,Advanced,Hindi,Hybrid,Weekend,3.6,18
+U0535,Fathima,23,Female,Thrissur,SQL,Java,Advanced,Malayalam,Hybrid,Evening,3.5,23
+U0536,Naveen,39,Female,Thiruvananthapuram,Java,SQL,Beginner,Malayalam,Offline,Evening,4.4,15
+U0537,Abin,31,Male,Thrissur,AI Basics,Spoken English,Beginner,Malayalam,Hybrid,Afternoon,4.5,8
+U0538,Meera,39,Female,Kozhikode,Spoken English,AI Basics,Advanced,Malayalam,Hybrid,Afternoon,3.6,12
+U0539,Vishnu,34,Female,Kollam,Graphic Design,SQL,Advanced,English,Online,Morning,3.8,19
+U0540,Keerthana,19,Male,Thiruvananthapuram,SQL,Graphic Design,Intermediate,English,Hybrid,Morning,3.7,19
+U0541,Athira,31,Female,Thiruvananthapuram,Hindi,AI Basics,Advanced,English,Hybrid,Weekend,4.1,25
+U0542,Akhil,30,Female,Thrissur,AI Basics,Hindi,Advanced,English,Hybrid,Weekend,4.4,13
+U0543,Fathima,20,Female,Thrissur,SQL,PowerPoint,Advanced,Hindi,Offline,Afternoon,3.9,0
+U0544,Riya,18,Male,Thrissur,PowerPoint,SQL,Beginner,Hindi,Offline,Afternoon,4.5,22
+U0545,Sneha,22,Female,Kannur,Data Analysis,Photoshop,Advanced,Hindi,Offline,Evening,3.9,17
+U0546,Neha,36,Female,Thrissur,Photoshop,Data Analysis,Intermediate,Hindi,Hybrid,Evening,4.1,6
+U0547,Priya,35,Female,Kochi,Video Editing,Tamil,Intermediate,Hindi,Hybrid,Afternoon,4.0,22
+U0548,Sanjay,22,Male,Kannur,Tamil,Video Editing,Beginner,Hindi,Offline,Afternoon,4.7,5
+U0549,Sreya,35,Male,Kollam,C++,JavaScript,Intermediate,Hindi,Hybrid,Evening,3.5,2
+U0550,Abin,22,Female,Thrissur,JavaScript,C++,Intermediate,Hindi,Online,Evening,3.6,7
+U0551,Fathima,30,Female,Kannur,Canva,C,Advanced,English,Online,Weekend,4.9,5
+U0552,Asha,33,Female,Thiruvananthapuram,C,Canva,Beginner,English,Hybrid,Weekend,4.9,16
+U0553,Keerthana,23,Male,Kochi,PowerPoint,CSS,Beginner,English,Hybrid,Afternoon,3.5,5
+U0554,Rahul,26,Female,Kochi,CSS,PowerPoint,Advanced,English,Offline,Afternoon,4.1,6
+U0555,Rohit,27,Female,Kochi,Malayalam,Python,Intermediate,English,Online,Morning,4.4,6
+U0556,Kiran,30,Male,Kochi,Python,Malayalam,Beginner,English,Offline,Morning,4.3,17
+U0557,Sneha,34,Female,Thrissur,C,Hindi,Advanced,Tamil,Offline,Evening,4.5,12
+U0558,Dev,33,Male,Kochi,Hindi,C,Intermediate,Tamil,Hybrid,Evening,4.2,18
+U0559,Nikhil,20,Female,Kannur,AI Basics,Python,Beginner,Hindi,Hybrid,Morning,4.6,25
+U0560,Akash,31,Female,Thrissur,Python,AI Basics,Advanced,Hindi,Online,Morning,4.6,8
+U0561,Vivek,28,Male,Thrissur,JavaScript,Photoshop,Beginner,English,Offline,Weekend,4.0,6
+U0562,Joel,36,Female,Kollam,Photoshop,JavaScript,Advanced,English,Hybrid,Weekend,4.9,6
+U0563,Naveen,25,Female,Kollam,Spoken English,Yoga,Beginner,Malayalam,Online,Afternoon,4.8,19
+U0564,Priya,22,Male,Thiruvananthapuram,Yoga,Spoken English,Beginner,Malayalam,Hybrid,Afternoon,4.9,15
+U0565,Priya,37,Female,Kozhikode,Public Speaking,Python,Advanced,English,Offline,Weekend,4.2,24
+U0566,Fathima,34,Female,Kozhikode,Python,Public Speaking,Beginner,English,Hybrid,Weekend,3.7,16
+U0567,Athira,29,Female,Kannur,Data Analysis,Video Editing,Beginner,Hindi,Offline,Morning,5.0,22
+U0568,Athira,32,Female,Kannur,Video Editing,Data Analysis,Beginner,Hindi,Online,Morning,4.5,12
+U0569,Keerthana,26,Male,Thrissur,Tamil,C++,Intermediate,Tamil,Online,Evening,3.9,19
+U0570,Akash,29,Male,Kozhikode,C++,Tamil,Intermediate,Tamil,Online,Evening,4.1,24
+U0571,Kiran,23,Male,Thrissur,Canva,Graphic Design,Advanced,Hindi,Online,Evening,4.7,23
+U0572,Nikhil,25,Female,Kozhikode,Graphic Design,Canva,Beginner,Hindi,Online,Evening,4.7,23
+U0573,Neha,33,Male,Kannur,SQL,Malayalam,Advanced,English,Hybrid,Afternoon,4.6,25
+U0574,Akhil,27,Female,Thrissur,Malayalam,SQL,Advanced,English,Online,Afternoon,4.1,22
+U0575,Akhil,38,Male,Kozhikode,HTML,Java,Advanced,Malayalam,Offline,Evening,3.9,11
+U0576,Rohit,35,Female,Kochi,Java,HTML,Beginner,Malayalam,Offline,Evening,3.7,21
+U0577,Priya,28,Female,Kannur,Public Speaking,CSS,Intermediate,Malayalam,Online,Evening,4.1,9
+U0578,Kiran,38,Male,Kollam,CSS,Public Speaking,Advanced,Malayalam,Offline,Evening,4.1,19
+U0579,Meera,28,Male,Kochi,Tamil,Graphic Design,Intermediate,English,Hybrid,Morning,3.9,8
+U0580,Keerthana,38,Female,Kochi,Graphic Design,Tamil,Intermediate,English,Offline,Morning,4.6,16
+U0581,Maya,18,Male,Kannur,Photography,Video Editing,Beginner,Malayalam,Hybrid,Afternoon,3.9,23
+U0582,Riya,20,Male,Kollam,Video Editing,Photography,Intermediate,Malayalam,Online,Afternoon,3.6,15
+U0583,Athira,20,Male,Kochi,Hindi,Java,Advanced,English,Online,Weekend,3.6,12
+U0584,Anu,25,Male,Kannur,Java,Hindi,Intermediate,English,Offline,Weekend,4.4,4
+U0585,Anjali,39,Female,Kochi,Malayalam,AI Basics,Intermediate,Malayalam,Offline,Morning,5.0,17
+U0586,Fathima,26,Female,Kollam,AI Basics,Malayalam,Advanced,Malayalam,Hybrid,Morning,3.8,19
+U0587,Fathima,29,Female,Thrissur,Photography,Digital Marketing,Beginner,Hindi,Online,Evening,4.2,11
+U0588,Neha,26,Male,Kochi,Digital Marketing,Photography,Beginner,Hindi,Online,Evening,4.3,24
+U0589,Akhil,35,Male,Kannur,AI Basics,SQL,Intermediate,Tamil,Offline,Evening,3.9,24
+U0590,Neha,27,Male,Thiruvananthapuram,SQL,AI Basics,Advanced,Tamil,Offline,Evening,3.8,17
+U0591,Riya,38,Female,Kozhikode,Video Editing,Graphic Design,Beginner,Malayalam,Offline,Afternoon,3.6,20
+U0592,Diya,34,Female,Kochi,Graphic Design,Video Editing,Advanced,Malayalam,Hybrid,Afternoon,4.3,8
+U0593,Arun,27,Male,Kannur,Video Editing,CSS,Intermediate,English,Hybrid,Afternoon,4.2,22
+U0594,Keerthana,33,Male,Kochi,CSS,Video Editing,Beginner,English,Online,Afternoon,3.6,17
+U0595,Nikhil,22,Female,Kannur,Python,CSS,Beginner,English,Online,Evening,3.6,0
+U0596,Akhil,24,Female,Kozhikode,CSS,Python,Intermediate,English,Offline,Evening,5.0,14
+U0597,Rahul,22,Male,Kochi,Cooking,Machine Learning,Intermediate,English,Online,Evening,4.3,5
+U0598,Vishnu,26,Female,Thiruvananthapuram,Machine Learning,Cooking,Beginner,English,Hybrid,Evening,3.9,24
+U0599,Kiran,21,Male,Kozhikode,Photography,JavaScript,Intermediate,English,Hybrid,Afternoon,4.9,10
+U0600,Meera,38,Male,Kannur,JavaScript,Photography,Advanced,English,Hybrid,Afternoon,3.7,15
+U0601,Joel,19,Male,Thiruvananthapuram,Resume Writing,PowerPoint,Beginner,Malayalam,Hybrid,Evening,4.2,0
+U0602,Meera,26,Male,Kozhikode,PowerPoint,Resume Writing,Beginner,Malayalam,Online,Evening,5.0,18
+U0603,Priya,20,Male,Kollam,Data Analysis,Cooking,Intermediate,Hindi,Online,Afternoon,4.5,10
+U0604,Fathima,38,Male,Thiruvananthapuram,Cooking,Data Analysis,Intermediate,Hindi,Hybrid,Afternoon,3.7,17
+U0605,Diya,28,Female,Kozhikode,Data Analysis,C++,Advanced,Malayalam,Online,Weekend,3.5,12
+U0606,Priya,22,Female,Thiruvananthapuram,C++,Data Analysis,Intermediate,Malayalam,Hybrid,Weekend,4.2,9
+U0607,Dev,23,Female,Kochi,Hindi,Guitar,Advanced,Hindi,Offline,Afternoon,3.9,19
+U0608,Fathima,35,Male,Thiruvananthapuram,Guitar,Hindi,Advanced,Hindi,Online,Afternoon,4.2,8
+U0609,Harsha,38,Female,Kannur,Hindi,Canva,Beginner,Hindi,Online,Morning,4.4,11
+U0610,Harsha,37,Male,Kochi,Canva,Hindi,Advanced,Hindi,Online,Morning,4.5,17
+U0611,Harsha,35,Male,Thrissur,Machine Learning,Graphic Design,Intermediate,Malayalam,Offline,Weekend,4.1,10
+U0612,Sneha,21,Male,Thiruvananthapuram,Graphic Design,Machine Learning,Beginner,Malayalam,Online,Weekend,4.8,6
+U0613,Anjali,36,Female,Kannur,C++,Malayalam,Intermediate,Malayalam,Hybrid,Morning,4.4,18
+U0614,Nikhil,19,Female,Kollam,Malayalam,C++,Advanced,Malayalam,Hybrid,Morning,3.6,6
+U0615,Sreya,38,Male,Kochi,Resume Writing,Spoken English,Advanced,English,Hybrid,Weekend,4.9,13
+U0616,Abin,29,Male,Thrissur,Spoken English,Resume Writing,Intermediate,English,Hybrid,Weekend,3.6,2
+U0617,Athira,21,Male,Kannur,Machine Learning,PowerPoint,Beginner,English,Hybrid,Afternoon,4.1,6
+U0618,Athira,39,Male,Thrissur,PowerPoint,Machine Learning,Advanced,English,Online,Afternoon,4.3,17
+U0619,Vivek,32,Female,Thiruvananthapuram,Video Editing,Yoga,Beginner,English,Online,Evening,4.3,16
+U0620,Akash,39,Male,Thrissur,Yoga,Video Editing,Advanced,English,Offline,Evening,4.9,10
+U0621,Harsha,38,Female,Kannur,Hindi,Photoshop,Intermediate,Tamil,Hybrid,Weekend,3.9,17
+U0622,Vishnu,30,Female,Kochi,Photoshop,Hindi,Intermediate,Tamil,Offline,Weekend,4.9,0
+U0623,Athira,22,Female,Thiruvananthapuram,Guitar,Java,Intermediate,Tamil,Online,Morning,3.8,10
+U0624,Aarav,40,Female,Thrissur,Java,Guitar,Advanced,Tamil,Hybrid,Morning,4.4,18
+U0625,Priya,22,Male,Kochi,SQL,C++,Intermediate,English,Hybrid,Weekend,3.9,8
+U0626,Sreya,27,Male,Thrissur,C++,SQL,Intermediate,English,Hybrid,Weekend,4.9,23
+U0627,Meera,33,Male,Thrissur,C,Yoga,Advanced,Tamil,Offline,Weekend,3.6,25
+U0628,Dev,30,Male,Thiruvananthapuram,Yoga,C,Intermediate,Tamil,Offline,Weekend,4.8,13
+U0629,Naveen,38,Male,Kannur,Video Editing,Arduino,Advanced,English,Offline,Afternoon,3.6,16
+U0630,Anjali,28,Male,Kochi,Arduino,Video Editing,Advanced,English,Hybrid,Afternoon,3.8,1
+U0631,Harsha,37,Male,Kollam,Digital Marketing,Yoga,Intermediate,Hindi,Offline,Weekend,4.7,4
+U0632,Arun,28,Male,Kozhikode,Yoga,Digital Marketing,Advanced,Hindi,Hybrid,Weekend,3.6,12
+U0633,Harsha,40,Male,Kollam,Excel,C,Intermediate,Hindi,Hybrid,Weekend,3.8,12
+U0634,Asha,36,Male,Thrissur,C,Excel,Advanced,Hindi,Hybrid,Weekend,4.3,7
+U0635,Vivek,36,Male,Thiruvananthapuram,C,PowerPoint,Advanced,Hindi,Offline,Evening,4.1,11
+U0636,Vishnu,28,Female,Thrissur,PowerPoint,C,Advanced,Hindi,Online,Evening,4.7,5
+U0637,Kiran,19,Male,Kollam,Canva,Resume Writing,Advanced,Hindi,Offline,Afternoon,3.7,23
+U0638,Maya,20,Male,Kannur,Resume Writing,Canva,Beginner,Hindi,Online,Afternoon,4.9,4
+U0639,Akash,40,Male,Kochi,AI Basics,Machine Learning,Intermediate,Tamil,Offline,Morning,3.5,6
+U0640,Naveen,35,Male,Kollam,Machine Learning,AI Basics,Advanced,Tamil,Hybrid,Morning,4.6,17
+U0641,Sanjay,36,Male,Kochi,Spoken English,Resume Writing,Beginner,Malayalam,Online,Morning,3.9,25
+U0642,Riya,37,Female,Thiruvananthapuram,Resume Writing,Spoken English,Intermediate,Malayalam,Hybrid,Morning,4.9,2
+U0643,Maya,21,Male,Kochi,Graphic Design,Cooking,Advanced,Tamil,Offline,Evening,3.8,12
+U0644,Athira,40,Male,Kochi,Cooking,Graphic Design,Intermediate,Tamil,Hybrid,Evening,4.3,5
+U0645,Anjali,25,Female,Kochi,CSS,Hindi,Intermediate,Hindi,Offline,Morning,4.6,0
+U0646,Priya,39,Female,Kochi,Hindi,CSS,Advanced,Hindi,Offline,Morning,3.9,16
+U0647,Joel,30,Male,Thrissur,Excel,Machine Learning,Intermediate,English,Online,Evening,3.7,12
+U0648,Vivek,22,Male,Kannur,Machine Learning,Excel,Intermediate,English,Hybrid,Evening,4.9,19
+U0649,Diya,36,Male,Kozhikode,AI Basics,Resume Writing,Intermediate,Malayalam,Hybrid,Weekend,4.0,17
+U0650,Arun,24,Male,Thrissur,Resume Writing,AI Basics,Advanced,Malayalam,Hybrid,Weekend,4.7,4
+U0651,Fathima,22,Male,Kochi,PowerPoint,Guitar,Beginner,Malayalam,Hybrid,Weekend,4.3,23
+U0652,Sneha,23,Female,Kollam,Guitar,PowerPoint,Advanced,Malayalam,Online,Weekend,4.6,13
+U0653,Arun,24,Male,Kollam,Video Editing,PowerPoint,Beginner,Hindi,Online,Evening,4.6,19
+U0654,Keerthana,26,Male,Thrissur,PowerPoint,Video Editing,Beginner,Hindi,Online,Evening,4.5,11
+U0655,Athira,37,Female,Kannur,C,Guitar,Advanced,Hindi,Offline,Afternoon,3.8,12
+U0656,Akhil,33,Male,Kollam,Guitar,C,Beginner,Hindi,Online,Afternoon,3.5,24
+U0657,Naveen,39,Male,Kollam,Python,PowerPoint,Beginner,Hindi,Online,Afternoon,4.9,14
+U0658,Maya,37,Female,Kannur,PowerPoint,Python,Intermediate,Hindi,Offline,Afternoon,4.8,13
+U0659,Naveen,28,Female,Thrissur,Graphic Design,Data Analysis,Advanced,English,Hybrid,Weekend,4.4,16
+U0660,Asha,40,Male,Thrissur,Data Analysis,Graphic Design,Beginner,English,Offline,Weekend,4.2,1
+U0661,Rohit,30,Male,Kollam,Arduino,JavaScript,Intermediate,Hindi,Offline,Morning,4.1,9
+U0662,Harsha,27,Female,Kollam,JavaScript,Arduino,Intermediate,Hindi,Offline,Morning,4.4,1
+U0663,Abin,38,Female,Thiruvananthapuram,Cooking,Malayalam,Advanced,Malayalam,Hybrid,Weekend,3.7,24
+U0664,Dev,40,Male,Kozhikode,Malayalam,Cooking,Intermediate,Malayalam,Offline,Weekend,4.2,5
+U0665,Rahul,26,Female,Kannur,Photography,Public Speaking,Advanced,Malayalam,Hybrid,Weekend,4.7,22
+U0666,Naveen,21,Male,Thiruvananthapuram,Public Speaking,Photography,Advanced,Malayalam,Offline,Weekend,4.5,2
+U0667,Sanjay,35,Female,Thiruvananthapuram,Malayalam,Guitar,Beginner,Hindi,Offline,Afternoon,4.3,21
+U0668,Maya,22,Male,Kollam,Guitar,Malayalam,Beginner,Hindi,Hybrid,Afternoon,3.6,9
+U0669,Asha,23,Male,Kollam,PowerPoint,Yoga,Beginner,Hindi,Online,Evening,4.4,8
+U0670,Aarav,32,Female,Kozhikode,Yoga,PowerPoint,Advanced,Hindi,Online,Evening,4.4,15
+U0671,Neha,32,Male,Thrissur,JavaScript,CSS,Advanced,Hindi,Online,Weekend,3.9,17
+U0672,Nikhil,37,Male,Thiruvananthapuram,CSS,JavaScript,Beginner,Hindi,Online,Weekend,3.6,11
+U0673,Akash,20,Male,Thiruvananthapuram,Java,HTML,Intermediate,English,Online,Evening,3.7,9
+U0674,Keerthana,39,Male,Kozhikode,HTML,Java,Advanced,English,Hybrid,Evening,4.0,1
+U0675,Priya,30,Male,Kozhikode,C,Data Analysis,Advanced,Tamil,Online,Evening,3.9,4
+U0676,Sneha,40,Female,Kochi,Data Analysis,C,Advanced,Tamil,Offline,Evening,4.3,22
+U0677,Dev,38,Male,Kozhikode,CSS,Resume Writing,Advanced,English,Hybrid,Morning,4.4,25
+U0678,Riya,27,Female,Thrissur,Resume Writing,CSS,Intermediate,English,Offline,Morning,4.3,19
+U0679,Akhil,23,Male,Kannur,Canva,SQL,Intermediate,Hindi,Online,Weekend,3.5,0
+U0680,Kiran,38,Male,Kannur,SQL,Canva,Beginner,Hindi,Hybrid,Weekend,5.0,13
+U0681,Aarav,38,Male,Kannur,Java,Canva,Intermediate,Tamil,Offline,Afternoon,4.7,9
+U0682,Anu,34,Female,Thiruvananthapuram,Canva,Java,Beginner,Tamil,Hybrid,Afternoon,4.0,12
+U0683,Vishnu,28,Female,Kannur,Guitar,Tamil,Intermediate,English,Offline,Afternoon,4.7,20
+U0684,Arun,33,Male,Kannur,Tamil,Guitar,Intermediate,English,Hybrid,Afternoon,4.8,14
+U0685,Abin,34,Female,Thrissur,Data Analysis,AI Basics,Advanced,Hindi,Hybrid,Morning,4.0,17
+U0686,Aarav,24,Female,Kochi,AI Basics,Data Analysis,Beginner,Hindi,Online,Morning,3.9,0
+U0687,Meera,37,Male,Kochi,Photoshop,Video Editing,Advanced,Malayalam,Offline,Weekend,4.6,8
+U0688,Neha,20,Female,Kollam,Video Editing,Photoshop,Intermediate,Malayalam,Offline,Weekend,4.7,9
+U0689,Sneha,29,Male,Kollam,CSS,Hindi,Beginner,Tamil,Offline,Afternoon,4.3,25
+U0690,Akhil,34,Male,Kollam,Hindi,CSS,Intermediate,Tamil,Offline,Afternoon,4.6,16
+U0691,Harsha,21,Male,Kollam,PowerPoint,Data Analysis,Advanced,Tamil,Online,Afternoon,4.2,22
+U0692,Maya,34,Male,Thiruvananthapuram,Data Analysis,PowerPoint,Intermediate,Tamil,Online,Afternoon,4.5,19
+U0693,Joel,19,Male,Thrissur,AI Basics,C,Advanced,Tamil,Hybrid,Weekend,4.0,18
+U0694,Harsha,27,Male,Kochi,C,AI Basics,Beginner,Tamil,Online,Weekend,3.9,17
+U0695,Nikhil,22,Male,Kochi,Photoshop,Data Analysis,Beginner,Hindi,Online,Morning,4.9,17
+U0696,Athira,21,Male,Thrissur,Data Analysis,Photoshop,Intermediate,Hindi,Hybrid,Morning,4.0,4
+U0697,Meera,20,Female,Thrissur,Cooking,Machine Learning,Intermediate,Tamil,Hybrid,Afternoon,4.2,4
+U0698,Aarav,33,Male,Thiruvananthapuram,Machine Learning,Cooking,Intermediate,Tamil,Online,Afternoon,3.6,12
+U0699,Anu,28,Male,Kannur,HTML,Guitar,Advanced,Hindi,Hybrid,Evening,3.6,24
+U0700,Harsha,32,Male,Thiruvananthapuram,Guitar,HTML,Advanced,Hindi,Offline,Evening,3.6,9
+U0701,Diya,25,Male,Thrissur,Digital Marketing,Resume Writing,Intermediate,Hindi,Offline,Weekend,4.1,22
+U0702,Fathima,39,Female,Kochi,Resume Writing,Digital Marketing,Intermediate,Hindi,Offline,Weekend,3.5,15
+U0703,Maya,23,Female,Kochi,C++,Graphic Design,Advanced,Hindi,Hybrid,Weekend,3.7,3
+U0704,Sanjay,40,Male,Kochi,Graphic Design,C++,Advanced,Hindi,Hybrid,Weekend,3.6,9
+U0705,Diya,37,Male,Thrissur,Hindi,Photography,Beginner,Hindi,Offline,Weekend,4.1,10
+U0706,Vishnu,40,Female,Kozhikode,Photography,Hindi,Advanced,Hindi,Offline,Weekend,4.3,7
+U0707,Sneha,36,Female,Kochi,HTML,Cooking,Advanced,English,Online,Weekend,4.7,5
+U0708,Anu,30,Male,Thrissur,Cooking,HTML,Beginner,English,Hybrid,Weekend,4.7,24
+U0709,Asha,39,Male,Thiruvananthapuram,Machine Learning,Graphic Design,Beginner,Tamil,Online,Weekend,4.8,24
+U0710,Asha,18,Male,Kannur,Graphic Design,Machine Learning,Beginner,Tamil,Offline,Weekend,4.3,12
+U0711,Vishnu,39,Female,Kochi,Public Speaking,Tamil,Advanced,Hindi,Hybrid,Afternoon,4.0,13
+U0712,Riya,29,Male,Thrissur,Tamil,Public Speaking,Beginner,Hindi,Hybrid,Afternoon,5.0,12
+U0713,Priya,35,Male,Thiruvananthapuram,AI Basics,SQL,Advanced,Tamil,Hybrid,Morning,4.7,11
+U0714,Sneha,27,Male,Kollam,SQL,AI Basics,Intermediate,Tamil,Hybrid,Morning,4.4,20
+U0715,Sanjay,31,Male,Kannur,Photoshop,Guitar,Beginner,Hindi,Offline,Weekend,3.7,17
+U0716,Sanjay,29,Female,Kollam,Guitar,Photoshop,Intermediate,Hindi,Hybrid,Weekend,3.7,0
+U0717,Naveen,33,Female,Kollam,C,Digital Marketing,Beginner,English,Online,Afternoon,4.5,13
+U0718,Maya,32,Female,Thrissur,Digital Marketing,C,Beginner,English,Offline,Afternoon,4.3,17
+U0719,Diya,23,Female,Thrissur,Machine Learning,Photography,Beginner,Hindi,Hybrid,Evening,4.2,23
+U0720,Diya,40,Female,Kozhikode,Photography,Machine Learning,Advanced,Hindi,Hybrid,Evening,4.1,1
+U0721,Dev,33,Male,Kollam,Tamil,Spoken English,Advanced,Tamil,Hybrid,Morning,4.3,24
+U0722,Harsha,26,Female,Thrissur,Spoken English,Tamil,Beginner,Tamil,Hybrid,Morning,4.8,2
+U0723,Keerthana,19,Female,Thrissur,JavaScript,Malayalam,Beginner,English,Offline,Evening,4.2,15
+U0724,Dev,28,Female,Kochi,Malayalam,JavaScript,Intermediate,English,Offline,Evening,3.8,22
+U0725,Anjali,38,Female,Thrissur,IoT,Public Speaking,Beginner,Tamil,Hybrid,Evening,3.6,9
+U0726,Sreya,37,Male,Kochi,Public Speaking,IoT,Intermediate,Tamil,Online,Evening,3.7,2
+U0727,Arun,37,Female,Kochi,AI Basics,Data Analysis,Intermediate,Tamil,Online,Evening,4.6,19
+U0728,Meera,36,Male,Kannur,Data Analysis,AI Basics,Intermediate,Tamil,Offline,Evening,4.7,8
+U0729,Meera,34,Male,Kochi,Data Analysis,Cooking,Beginner,Malayalam,Online,Weekend,4.4,4
+U0730,Abin,33,Female,Kozhikode,Cooking,Data Analysis,Beginner,Malayalam,Hybrid,Weekend,4.2,20
+U0731,Asha,26,Male,Thiruvananthapuram,HTML,JavaScript,Beginner,Tamil,Offline,Morning,4.1,9
+U0732,Akhil,35,Male,Kozhikode,JavaScript,HTML,Advanced,Tamil,Hybrid,Morning,4.1,8
+U0733,Anu,32,Female,Kannur,SQL,Hindi,Intermediate,Hindi,Hybrid,Morning,4.5,1
+U0734,Sneha,35,Female,Kozhikode,Hindi,SQL,Advanced,Hindi,Hybrid,Morning,4.8,10
+U0735,Asha,36,Female,Kozhikode,Excel,PowerPoint,Advanced,English,Hybrid,Evening,3.9,21
+U0736,Dev,24,Female,Kannur,PowerPoint,Excel,Advanced,English,Online,Evening,4.0,0
+U0737,Neha,21,Male,Kannur,Digital Marketing,Python,Intermediate,English,Offline,Morning,3.8,9
+U0738,Nikhil,24,Male,Thiruvananthapuram,Python,Digital Marketing,Advanced,English,Online,Morning,3.6,19
+U0739,Riya,21,Male,Thrissur,Digital Marketing,IoT,Beginner,Malayalam,Offline,Morning,4.5,20
+U0740,Dev,23,Male,Kannur,IoT,Digital Marketing,Beginner,Malayalam,Offline,Morning,3.9,21
+U0741,Harsha,31,Female,Kochi,IoT,C,Beginner,Hindi,Online,Evening,3.9,1
+U0742,Sanjay,30,Female,Thiruvananthapuram,C,IoT,Intermediate,Hindi,Offline,Evening,3.8,2
+U0743,Asha,33,Male,Kollam,Spoken English,CSS,Advanced,Hindi,Offline,Afternoon,3.8,20
+U0744,Sneha,32,Female,Thiruvananthapuram,CSS,Spoken English,Beginner,Hindi,Online,Afternoon,3.6,23
+U0745,Joel,33,Male,Kannur,Excel,Data Analysis,Advanced,Hindi,Online,Morning,4.9,21
+U0746,Sanjay,26,Male,Kannur,Data Analysis,Excel,Intermediate,Hindi,Offline,Morning,4.4,16
+U0747,Neha,30,Male,Thrissur,Cooking,Data Analysis,Beginner,Hindi,Online,Weekend,4.1,22
+U0748,Abin,33,Male,Thrissur,Data Analysis,Cooking,Advanced,Hindi,Offline,Weekend,4.0,9
+U0749,Rohit,28,Male,Kozhikode,Graphic Design,Java,Intermediate,English,Hybrid,Evening,3.8,17
+U0750,Anjali,30,Male,Kochi,Java,Graphic Design,Advanced,English,Offline,Evening,4.8,20
+U0751,Joel,38,Female,Kannur,Cooking,Canva,Beginner,Hindi,Online,Morning,3.6,0
+U0752,Naveen,36,Male,Kozhikode,Canva,Cooking,Intermediate,Hindi,Online,Morning,4.7,20
+U0753,Anjali,28,Male,Kochi,PowerPoint,Malayalam,Advanced,Hindi,Online,Morning,4.1,6
+U0754,Sreya,38,Female,Kannur,Malayalam,PowerPoint,Advanced,Hindi,Online,Morning,4.6,7
+U0755,Akhil,38,Male,Kozhikode,IoT,C,Advanced,English,Online,Afternoon,3.9,20
+U0756,Arun,18,Male,Kannur,C,IoT,Beginner,English,Offline,Afternoon,4.7,3
+U0757,Abin,21,Male,Kozhikode,Photography,Resume Writing,Advanced,Malayalam,Hybrid,Morning,3.8,25
+U0758,Vishnu,31,Female,Kannur,Resume Writing,Photography,Advanced,Malayalam,Offline,Morning,4.0,21
+U0759,Abin,24,Male,Thrissur,Tamil,Hindi,Beginner,Malayalam,Offline,Evening,3.6,8
+U0760,Arun,31,Male,Kannur,Hindi,Tamil,Intermediate,Malayalam,Hybrid,Evening,3.7,7
+U0761,Sneha,38,Female,Kollam,IoT,Tamil,Beginner,English,Offline,Afternoon,3.6,0
+U0762,Meera,20,Female,Kozhikode,Tamil,IoT,Advanced,English,Offline,Afternoon,4.5,6
+U0763,Neha,25,Male,Thrissur,SQL,Digital Marketing,Advanced,Tamil,Online,Weekend,4.4,22
+U0764,Akhil,37,Male,Kannur,Digital Marketing,SQL,Intermediate,Tamil,Offline,Weekend,4.1,17
+U0765,Keerthana,29,Male,Kozhikode,JavaScript,CSS,Advanced,English,Hybrid,Morning,3.8,1
+U0766,Vishnu,21,Male,Kannur,CSS,JavaScript,Intermediate,English,Offline,Morning,3.8,21
+U0767,Anu,24,Female,Kochi,IoT,Java,Intermediate,English,Hybrid,Evening,4.7,24
+U0768,Kiran,19,Male,Kannur,Java,IoT,Beginner,English,Hybrid,Evening,3.8,25
+U0769,Joel,25,Female,Thrissur,Python,Malayalam,Advanced,English,Offline,Morning,4.1,23
+U0770,Vivek,28,Male,Thiruvananthapuram,Malayalam,Python,Intermediate,English,Online,Morning,3.6,23
+U0771,Joel,25,Male,Kozhikode,Video Editing,Arduino,Advanced,Malayalam,Offline,Weekend,3.6,13
+U0772,Arun,24,Female,Kollam,Arduino,Video Editing,Intermediate,Malayalam,Offline,Weekend,3.7,23
+U0773,Vishnu,28,Male,Thiruvananthapuram,CSS,Digital Marketing,Advanced,Tamil,Hybrid,Evening,3.6,4
+U0774,Sneha,32,Female,Kozhikode,Digital Marketing,CSS,Beginner,Tamil,Offline,Evening,3.8,9
+U0775,Rahul,31,Female,Kollam,Public Speaking,HTML,Advanced,Malayalam,Offline,Afternoon,4.8,8
+U0776,Aarav,31,Male,Kollam,HTML,Public Speaking,Intermediate,Malayalam,Offline,Afternoon,4.4,18
+U0777,Anjali,19,Female,Kannur,SQL,Public Speaking,Advanced,English,Online,Weekend,4.1,12
+U0778,Akhil,40,Male,Kozhikode,Public Speaking,SQL,Intermediate,English,Online,Weekend,3.6,24
+U0779,Arun,29,Female,Kollam,Python,Guitar,Advanced,Hindi,Online,Afternoon,3.5,21
+U0780,Anu,23,Female,Thrissur,Guitar,Python,Advanced,Hindi,Hybrid,Afternoon,3.5,14
+U0781,Meera,29,Female,Kannur,Photography,Data Analysis,Advanced,Malayalam,Online,Weekend,4.8,2
+U0782,Sanjay,40,Female,Thrissur,Data Analysis,Photography,Beginner,Malayalam,Offline,Weekend,4.1,8
+U0783,Keerthana,28,Male,Thrissur,Cooking,Public Speaking,Advanced,Malayalam,Offline,Morning,4.8,3
+U0784,Sanjay,29,Female,Thrissur,Public Speaking,Cooking,Beginner,Malayalam,Offline,Morning,4.0,20
+U0785,Arun,28,Male,Thrissur,Hindi,Guitar,Beginner,English,Hybrid,Afternoon,4.2,24
+U0786,Dev,40,Male,Kannur,Guitar,Hindi,Beginner,English,Offline,Afternoon,4.0,8
+U0787,Anjali,20,Female,Kochi,Malayalam,Cooking,Intermediate,Hindi,Offline,Evening,4.3,3
+U0788,Akhil,40,Female,Kozhikode,Cooking,Malayalam,Advanced,Hindi,Offline,Evening,4.7,22
+U0789,Joel,32,Male,Thiruvananthapuram,Data Analysis,IoT,Intermediate,English,Online,Afternoon,3.9,2
+U0790,Sneha,23,Female,Thiruvananthapuram,IoT,Data Analysis,Advanced,English,Online,Afternoon,4.2,6
+U0791,Neha,39,Male,Kozhikode,Malayalam,Digital Marketing,Intermediate,English,Offline,Evening,4.2,20
+U0792,Aarav,27,Male,Thiruvananthapuram,Digital Marketing,Malayalam,Beginner,English,Online,Evening,4.8,16
+U0793,Asha,38,Female,Kozhikode,Resume Writing,Photoshop,Advanced,Hindi,Hybrid,Evening,4.5,17
+U0794,Kiran,32,Female,Thrissur,Photoshop,Resume Writing,Beginner,Hindi,Offline,Evening,3.8,8
+U0795,Harsha,19,Male,Kochi,JavaScript,Malayalam,Intermediate,Tamil,Offline,Evening,4.9,19
+U0796,Fathima,23,Female,Kollam,Malayalam,JavaScript,Beginner,Tamil,Hybrid,Evening,4.5,21
+U0797,Sneha,19,Female,Thrissur,Data Analysis,SQL,Beginner,Malayalam,Offline,Afternoon,3.9,5
+U0798,Vishnu,35,Male,Kannur,SQL,Data Analysis,Intermediate,Malayalam,Offline,Afternoon,3.7,14
+U0799,Fathima,18,Female,Kozhikode,Hindi,HTML,Beginner,Tamil,Offline,Morning,4.9,4
+U0800,Aarav,35,Female,Kannur,HTML,Hindi,Advanced,Tamil,Offline,Morning,4.2,9
+U0801,Akash,40,Male,Kannur,Yoga,Tamil,Intermediate,Malayalam,Online,Weekend,3.7,17
+U0802,Sneha,27,Male,Kozhikode,Tamil,Yoga,Advanced,Malayalam,Online,Weekend,4.2,2
+U0803,Sreya,26,Male,Thiruvananthapuram,Photoshop,Java,Beginner,Malayalam,Hybrid,Afternoon,4.8,21
+U0804,Vivek,20,Female,Kollam,Java,Photoshop,Intermediate,Malayalam,Offline,Afternoon,4.4,16
+U0805,Arun,40,Female,Kochi,Java,Cooking,Intermediate,Tamil,Offline,Weekend,3.5,11
+U0806,Priya,27,Female,Thrissur,Cooking,Java,Beginner,Tamil,Online,Weekend,4.6,14
+U0807,Meera,31,Female,Kollam,Guitar,Video Editing,Advanced,Hindi,Hybrid,Evening,3.6,6
+U0808,Anu,33,Female,Thiruvananthapuram,Video Editing,Guitar,Advanced,Hindi,Offline,Evening,3.6,13
+U0809,Rohit,32,Male,Kollam,Resume Writing,Excel,Beginner,Hindi,Offline,Afternoon,3.9,15
+U0810,Anjali,27,Female,Kozhikode,Excel,Resume Writing,Advanced,Hindi,Hybrid,Afternoon,4.2,0
+U0811,Anu,38,Female,Thiruvananthapuram,Data Analysis,Python,Advanced,Malayalam,Hybrid,Evening,4.8,13
+U0812,Meera,33,Male,Thiruvananthapuram,Python,Data Analysis,Beginner,Malayalam,Offline,Evening,4.2,2
+U0813,Dev,31,Female,Kannur,Public Speaking,Yoga,Advanced,Tamil,Offline,Weekend,5.0,3
+U0814,Priya,34,Male,Kochi,Yoga,Public Speaking,Beginner,Tamil,Hybrid,Weekend,3.6,10
+U0815,Meera,19,Female,Kochi,Photography,IoT,Intermediate,Malayalam,Hybrid,Evening,4.9,11
+U0816,Anjali,27,Female,Thrissur,IoT,Photography,Advanced,Malayalam,Online,Evening,4.3,24
+U0817,Rohit,28,Female,Kannur,Resume Writing,HTML,Intermediate,English,Offline,Afternoon,4.5,22
+U0818,Priya,21,Female,Kollam,HTML,Resume Writing,Beginner,English,Online,Afternoon,4.3,11
+U0819,Fathima,23,Male,Kollam,Yoga,Spoken English,Beginner,Hindi,Hybrid,Evening,3.8,6
+U0820,Sreya,35,Male,Kozhikode,Spoken English,Yoga,Intermediate,Hindi,Online,Evening,3.7,4
+U0821,Anu,40,Female,Kollam,IoT,Python,Intermediate,Hindi,Hybrid,Evening,4.3,10
+U0822,Meera,40,Female,Thiruvananthapuram,Python,IoT,Advanced,Hindi,Online,Evening,3.8,22
+U0823,Arun,24,Male,Thiruvananthapuram,SQL,Guitar,Intermediate,Malayalam,Hybrid,Evening,4.6,3
+U0824,Rahul,18,Female,Kozhikode,Guitar,SQL,Beginner,Malayalam,Online,Evening,3.7,25
+U0825,Sneha,26,Male,Thiruvananthapuram,Digital Marketing,Malayalam,Intermediate,English,Hybrid,Weekend,3.5,3
+U0826,Sreya,21,Male,Thrissur,Malayalam,Digital Marketing,Beginner,English,Online,Weekend,4.5,0
+U0827,Priya,23,Male,Thrissur,C,HTML,Advanced,Tamil,Online,Evening,3.6,18
+U0828,Harsha,18,Male,Kannur,HTML,C,Beginner,Tamil,Offline,Evening,3.8,24
+U0829,Fathima,34,Female,Kochi,Hindi,Python,Advanced,English,Hybrid,Afternoon,3.8,21
+U0830,Sneha,23,Female,Kozhikode,Python,Hindi,Intermediate,English,Online,Afternoon,4.3,13
+U0831,Kiran,21,Male,Kozhikode,C++,Data Analysis,Intermediate,Tamil,Hybrid,Morning,3.9,23
+U0832,Anjali,20,Female,Kozhikode,Data Analysis,C++,Beginner,Tamil,Offline,Morning,3.9,19
+U0833,Rohit,31,Female,Kozhikode,Guitar,PowerPoint,Beginner,Hindi,Online,Afternoon,4.8,25
+U0834,Akhil,39,Female,Kollam,PowerPoint,Guitar,Beginner,Hindi,Hybrid,Afternoon,4.2,3
+U0835,Arun,30,Female,Kannur,Graphic Design,Spoken English,Advanced,English,Online,Morning,4.6,5
+U0836,Rahul,29,Male,Kochi,Spoken English,Graphic Design,Beginner,English,Hybrid,Morning,4.8,12
+U0837,Nikhil,40,Female,Kannur,C++,Excel,Intermediate,Hindi,Offline,Weekend,4.2,19
+U0838,Sanjay,33,Female,Kollam,Excel,C++,Intermediate,Hindi,Online,Weekend,3.7,15
+U0839,Sneha,19,Male,Kozhikode,Spoken English,JavaScript,Advanced,Malayalam,Online,Morning,5.0,12
+U0840,Keerthana,39,Female,Kollam,JavaScript,Spoken English,Intermediate,Malayalam,Hybrid,Morning,4.4,24
+U0841,Vishnu,27,Female,Kozhikode,C,Cooking,Advanced,Hindi,Offline,Weekend,4.3,25
+U0842,Maya,35,Male,Thiruvananthapuram,Cooking,C,Intermediate,Hindi,Online,Weekend,4.1,10
+U0843,Anjali,19,Male,Thrissur,AI Basics,Graphic Design,Advanced,Hindi,Offline,Weekend,4.8,5
+U0844,Akhil,31,Male,Kochi,Graphic Design,AI Basics,Advanced,Hindi,Offline,Weekend,4.2,3
+U0845,Akhil,35,Male,Thrissur,Tamil,Cooking,Beginner,Hindi,Offline,Weekend,3.9,18
+U0846,Sanjay,37,Female,Kochi,Cooking,Tamil,Intermediate,Hindi,Online,Weekend,3.5,1
+U0847,Sreya,36,Male,Kannur,SQL,AI Basics,Intermediate,Tamil,Offline,Evening,3.6,11
+U0848,Priya,31,Female,Thiruvananthapuram,AI Basics,SQL,Advanced,Tamil,Online,Evening,3.9,20
+U0849,Maya,27,Male,Kochi,PowerPoint,Public Speaking,Beginner,English,Online,Morning,4.3,1
+U0850,Kiran,39,Female,Thrissur,Public Speaking,PowerPoint,Advanced,English,Offline,Morning,3.9,22
+U0851,Sanjay,36,Female,Kochi,Spoken English,Public Speaking,Advanced,English,Online,Evening,4.7,3
+U0852,Riya,39,Male,Kochi,Public Speaking,Spoken English,Intermediate,English,Hybrid,Evening,4.7,21
+U0853,Neha,24,Female,Kannur,Photoshop,HTML,Beginner,Tamil,Hybrid,Evening,3.8,8
+U0854,Anjali,27,Female,Kollam,HTML,Photoshop,Advanced,Tamil,Hybrid,Evening,4.9,22
+U0855,Nikhil,20,Female,Kozhikode,AI Basics,Tamil,Beginner,English,Offline,Evening,4.7,20
+U0856,Abin,27,Female,Kozhikode,Tamil,AI Basics,Advanced,English,Hybrid,Evening,4.0,13
+U0857,Joel,18,Male,Thrissur,Graphic Design,Excel,Intermediate,Hindi,Online,Afternoon,4.5,23
+U0858,Kiran,26,Female,Thrissur,Excel,Graphic Design,Advanced,Hindi,Hybrid,Afternoon,3.6,6
+U0859,Arun,39,Female,Kozhikode,Canva,Spoken English,Intermediate,Malayalam,Offline,Afternoon,4.8,2
+U0860,Asha,24,Female,Kochi,Spoken English,Canva,Intermediate,Malayalam,Hybrid,Afternoon,3.7,21
+U0861,Sneha,22,Male,Thiruvananthapuram,Public Speaking,JavaScript,Beginner,Hindi,Offline,Afternoon,4.2,17
+U0862,Neha,31,Male,Kollam,JavaScript,Public Speaking,Beginner,Hindi,Offline,Afternoon,3.7,8
+U0863,Asha,19,Female,Thiruvananthapuram,Data Analysis,Machine Learning,Beginner,Tamil,Online,Afternoon,4.0,9
+U0864,Maya,20,Female,Kochi,Machine Learning,Data Analysis,Advanced,Tamil,Hybrid,Afternoon,4.8,12
+U0865,Sneha,36,Male,Thrissur,Machine Learning,Guitar,Advanced,Malayalam,Hybrid,Afternoon,4.9,16
+U0866,Nikhil,33,Male,Kollam,Guitar,Machine Learning,Advanced,Malayalam,Online,Afternoon,4.7,10
+U0867,Fathima,31,Male,Kollam,Photoshop,AI Basics,Beginner,Hindi,Online,Afternoon,3.8,8
+U0868,Kiran,31,Female,Thrissur,AI Basics,Photoshop,Beginner,Hindi,Offline,Afternoon,4.3,22
+U0869,Vivek,25,Female,Kollam,C++,Canva,Intermediate,Hindi,Offline,Weekend,4.6,9
+U0870,Aarav,38,Male,Kannur,Canva,C++,Advanced,Hindi,Online,Weekend,4.5,25
+U0871,Anu,38,Female,Kannur,Digital Marketing,JavaScript,Beginner,Tamil,Hybrid,Weekend,4.8,14
+U0872,Sanjay,18,Female,Kochi,JavaScript,Digital Marketing,Intermediate,Tamil,Online,Weekend,4.9,24
+U0873,Fathima,32,Female,Kannur,JavaScript,Photoshop,Intermediate,Malayalam,Online,Afternoon,3.9,2
+U0874,Abin,33,Female,Kannur,Photoshop,JavaScript,Intermediate,Malayalam,Offline,Afternoon,4.6,3
+U0875,Priya,31,Female,Kozhikode,Machine Learning,HTML,Advanced,Tamil,Online,Morning,4.6,20
+U0876,Asha,23,Female,Kannur,HTML,Machine Learning,Beginner,Tamil,Online,Morning,4.1,20
+U0877,Meera,25,Male,Thrissur,PowerPoint,Canva,Advanced,English,Offline,Morning,4.7,10
+U0878,Kiran,33,Male,Kochi,Canva,PowerPoint,Beginner,English,Hybrid,Morning,4.4,10
+U0879,Neha,29,Male,Kozhikode,Data Analysis,PowerPoint,Intermediate,Malayalam,Hybrid,Morning,3.8,0
+U0880,Fathima,35,Male,Thiruvananthapuram,PowerPoint,Data Analysis,Intermediate,Malayalam,Online,Morning,3.9,5
+U0881,Arun,20,Female,Kollam,Java,Video Editing,Advanced,Hindi,Online,Evening,3.5,16
+U0882,Neha,32,Female,Thiruvananthapuram,Video Editing,Java,Beginner,Hindi,Hybrid,Evening,3.8,25
+U0883,Arun,31,Male,Thrissur,Excel,Photoshop,Beginner,Hindi,Offline,Weekend,4.6,6
+U0884,Neha,23,Female,Kollam,Photoshop,Excel,Beginner,Hindi,Offline,Weekend,5.0,7
+U0885,Dev,39,Female,Thiruvananthapuram,Public Speaking,Photography,Beginner,Malayalam,Offline,Evening,3.7,10
+U0886,Riya,30,Male,Kannur,Photography,Public Speaking,Intermediate,Malayalam,Hybrid,Evening,4.1,19
+U0887,Anjali,28,Male,Kozhikode,Excel,C,Intermediate,English,Hybrid,Morning,4.9,25
+U0888,Keerthana,40,Male,Thiruvananthapuram,C,Excel,Intermediate,English,Hybrid,Morning,4.4,9
+U0889,Joel,35,Male,Thrissur,Graphic Design,Cooking,Beginner,Tamil,Offline,Afternoon,3.8,15
+U0890,Fathima,28,Female,Kollam,Cooking,Graphic Design,Beginner,Tamil,Offline,Afternoon,4.6,13
+U0891,Anjali,22,Female,Kochi,SQL,PowerPoint,Advanced,English,Offline,Evening,4.9,9
+U0892,Joel,26,Female,Thrissur,PowerPoint,SQL,Intermediate,English,Offline,Evening,4.8,10
+U0893,Anjali,24,Male,Thiruvananthapuram,Guitar,Spoken English,Beginner,Malayalam,Online,Weekend,3.6,8
+U0894,Meera,40,Female,Kozhikode,Spoken English,Guitar,Beginner,Malayalam,Offline,Weekend,3.6,11
+U0895,Akhil,21,Male,Thiruvananthapuram,Cooking,Hindi,Intermediate,Hindi,Online,Weekend,3.8,9
+U0896,Meera,23,Female,Thrissur,Hindi,Cooking,Advanced,Hindi,Hybrid,Weekend,3.8,0
+U0897,Fathima,20,Male,Kozhikode,Malayalam,Data Analysis,Advanced,Malayalam,Online,Weekend,4.8,0
+U0898,Anu,39,Male,Kozhikode,Data Analysis,Malayalam,Intermediate,Malayalam,Hybrid,Weekend,4.9,3
+U0899,Rahul,32,Female,Kozhikode,Machine Learning,Photoshop,Advanced,Malayalam,Offline,Morning,4.4,0
+U0900,Akash,19,Female,Kochi,Photoshop,Machine Learning,Advanced,Malayalam,Hybrid,Morning,4.9,25
+U0901,Sreya,38,Female,Kochi,Tamil,SQL,Beginner,Malayalam,Hybrid,Morning,3.6,19
+U0902,Sanjay,20,Female,Kochi,SQL,Tamil,Beginner,Malayalam,Online,Morning,4.9,12
+U0903,Sanjay,30,Female,Kannur,C,Python,Advanced,Malayalam,Online,Afternoon,3.7,15
+U0904,Sreya,31,Female,Kannur,Python,C,Advanced,Malayalam,Online,Afternoon,4.0,3
+U0905,Kiran,30,Female,Kochi,Machine Learning,Canva,Advanced,Malayalam,Hybrid,Weekend,4.1,24
+U0906,Neha,29,Male,Kozhikode,Canva,Machine Learning,Advanced,Malayalam,Offline,Weekend,3.6,16
+U0907,Fathima,33,Male,Kochi,Photoshop,Spoken English,Intermediate,Malayalam,Offline,Afternoon,3.6,25
+U0908,Akhil,27,Male,Kollam,Spoken English,Photoshop,Advanced,Malayalam,Offline,Afternoon,4.8,16
+U0909,Fathima,19,Male,Thrissur,Video Editing,PowerPoint,Intermediate,English,Offline,Morning,3.6,21
+U0910,Naveen,36,Female,Kochi,PowerPoint,Video Editing,Intermediate,English,Hybrid,Morning,3.6,16
+U0911,Sreya,23,Female,Thiruvananthapuram,Python,SQL,Beginner,Hindi,Offline,Afternoon,4.8,9
+U0912,Akash,36,Female,Kannur,SQL,Python,Intermediate,Hindi,Hybrid,Afternoon,4.7,10
+U0913,Meera,20,Female,Kannur,IoT,AI Basics,Beginner,Malayalam,Offline,Afternoon,4.3,0
+U0914,Sanjay,21,Male,Kollam,AI Basics,IoT,Advanced,Malayalam,Offline,Afternoon,4.2,12
+U0915,Keerthana,37,Female,Kannur,AI Basics,Digital Marketing,Advanced,Hindi,Hybrid,Evening,4.5,25
+U0916,Anu,20,Male,Kollam,Digital Marketing,AI Basics,Beginner,Hindi,Online,Evening,3.7,0
+U0917,Akhil,38,Male,Kannur,Cooking,CSS,Beginner,English,Offline,Afternoon,4.8,25
+U0918,Rohit,24,Male,Kochi,CSS,Cooking,Intermediate,English,Online,Afternoon,4.2,0
+U0919,Akhil,33,Male,Kozhikode,C++,CSS,Advanced,Malayalam,Online,Weekend,3.8,18
+U0920,Abin,30,Male,Kochi,CSS,C++,Beginner,Malayalam,Online,Weekend,4.4,22
+U0921,Anjali,33,Female,Kozhikode,Video Editing,Photography,Advanced,Hindi,Hybrid,Evening,4.6,21
+U0922,Joel,33,Male,Kannur,Photography,Video Editing,Beginner,Hindi,Hybrid,Evening,3.5,18
+U0923,Joel,38,Female,Kozhikode,Photoshop,Tamil,Beginner,English,Offline,Evening,4.4,20
+U0924,Priya,32,Female,Thiruvananthapuram,Tamil,Photoshop,Beginner,English,Offline,Evening,4.6,15
+U0925,Dev,39,Female,Thrissur,Canva,Spoken English,Advanced,Malayalam,Hybrid,Afternoon,4.2,9
+U0926,Naveen,40,Female,Kozhikode,Spoken English,Canva,Advanced,Malayalam,Hybrid,Afternoon,4.6,25
+U0927,Anu,40,Male,Kannur,Spoken English,Machine Learning,Intermediate,Malayalam,Online,Afternoon,3.8,5
+U0928,Keerthana,33,Male,Kozhikode,Machine Learning,Spoken English,Intermediate,Malayalam,Offline,Afternoon,3.9,17
+U0929,Priya,39,Male,Kollam,Java,Python,Advanced,Tamil,Online,Evening,4.7,10
+U0930,Neha,21,Male,Thiruvananthapuram,Python,Java,Advanced,Tamil,Online,Evening,4.2,10
+U0931,Joel,22,Male,Kannur,Data Analysis,Canva,Beginner,English,Offline,Evening,4.7,24
+U0932,Sneha,21,Male,Thrissur,Canva,Data Analysis,Beginner,English,Hybrid,Evening,3.7,20
+U0933,Meera,27,Female,Thrissur,C++,Arduino,Intermediate,Malayalam,Hybrid,Evening,4.8,4
+U0934,Asha,29,Female,Kollam,Arduino,C++,Beginner,Malayalam,Online,Evening,4.2,13
+U0935,Abin,33,Female,Kochi,Yoga,Data Analysis,Advanced,English,Online,Afternoon,3.6,11
+U0936,Riya,31,Female,Kannur,Data Analysis,Yoga,Advanced,English,Online,Afternoon,3.7,24
+U0937,Sreya,31,Female,Kozhikode,Malayalam,Video Editing,Intermediate,Malayalam,Hybrid,Afternoon,4.7,11
+U0938,Aarav,32,Male,Thiruvananthapuram,Video Editing,Malayalam,Advanced,Malayalam,Hybrid,Afternoon,4.9,2
+U0939,Neha,19,Female,Thiruvananthapuram,Photoshop,Canva,Advanced,Hindi,Hybrid,Afternoon,3.7,18
+U0940,Anjali,38,Female,Kozhikode,Canva,Photoshop,Intermediate,Hindi,Hybrid,Afternoon,4.6,9
+U0941,Aarav,26,Male,Kannur,Guitar,Yoga,Intermediate,Tamil,Offline,Evening,4.5,17
+U0942,Keerthana,37,Female,Kannur,Yoga,Guitar,Intermediate,Tamil,Hybrid,Evening,4.1,6
+U0943,Rohit,28,Female,Kannur,Arduino,PowerPoint,Advanced,English,Hybrid,Morning,4.8,16
+U0944,Rohit,27,Male,Thiruvananthapuram,PowerPoint,Arduino,Advanced,English,Hybrid,Morning,4.0,10
+U0945,Aarav,35,Female,Kollam,Yoga,Resume Writing,Intermediate,Malayalam,Hybrid,Morning,4.1,16
+U0946,Sneha,19,Female,Kochi,Resume Writing,Yoga,Advanced,Malayalam,Hybrid,Morning,4.0,1
+U0947,Anu,36,Male,Kozhikode,Yoga,Resume Writing,Intermediate,English,Online,Weekend,4.7,18
+U0948,Dev,40,Male,Kochi,Resume Writing,Yoga,Intermediate,English,Offline,Weekend,4.5,22
+U0949,Athira,25,Male,Kochi,Tamil,Cooking,Advanced,Malayalam,Hybrid,Weekend,3.8,24
+U0950,Priya,32,Male,Kollam,Cooking,Tamil,Advanced,Malayalam,Offline,Weekend,4.7,2
+U0951,Akhil,24,Female,Thiruvananthapuram,C,Java,Intermediate,Hindi,Hybrid,Afternoon,4.3,18
+U0952,Rohit,34,Female,Kochi,Java,C,Advanced,Hindi,Offline,Afternoon,4.5,14
+U0953,Arun,34,Male,Kozhikode,Cooking,Spoken English,Advanced,Hindi,Offline,Afternoon,3.7,22
+U0954,Athira,34,Male,Kannur,Spoken English,Cooking,Beginner,Hindi,Offline,Afternoon,4.2,23
+U0955,Keerthana,31,Male,Thiruvananthapuram,HTML,Tamil,Intermediate,Tamil,Hybrid,Morning,3.9,16
+U0956,Arun,21,Female,Kochi,Tamil,HTML,Intermediate,Tamil,Offline,Morning,3.9,0
+U0957,Anjali,27,Female,Kollam,Data Analysis,SQL,Beginner,Malayalam,Hybrid,Weekend,4.2,3
+U0958,Rohit,29,Male,Thiruvananthapuram,SQL,Data Analysis,Intermediate,Malayalam,Offline,Weekend,4.4,18
+U0959,Akhil,37,Male,Kollam,Photography,IoT,Advanced,Tamil,Hybrid,Weekend,4.2,14
+U0960,Vivek,32,Male,Kannur,IoT,Photography,Intermediate,Tamil,Online,Weekend,4.7,21
+U0961,Joel,30,Female,Thrissur,Public Speaking,Video Editing,Beginner,Hindi,Hybrid,Afternoon,4.8,23
+U0962,Nikhil,38,Male,Kollam,Video Editing,Public Speaking,Advanced,Hindi,Online,Afternoon,4.4,25
+U0963,Asha,35,Male,Kollam,Yoga,Cooking,Advanced,Tamil,Hybrid,Morning,4.4,1
+U0964,Dev,34,Male,Kozhikode,Cooking,Yoga,Advanced,Tamil,Online,Morning,3.7,17
+U0965,Diya,40,Female,Thiruvananthapuram,HTML,Python,Advanced,Tamil,Hybrid,Afternoon,4.0,18
+U0966,Anjali,33,Male,Kochi,Python,HTML,Intermediate,Tamil,Online,Afternoon,4.1,16
+U0967,Sneha,21,Male,Kochi,Photoshop,Video Editing,Beginner,Tamil,Online,Morning,3.9,2
+U0968,Arun,27,Female,Kannur,Video Editing,Photoshop,Beginner,Tamil,Online,Morning,4.4,10
+U0969,Sanjay,21,Female,Kollam,HTML,Python,Intermediate,English,Offline,Evening,3.9,3
+U0970,Anjali,24,Male,Thrissur,Python,HTML,Advanced,English,Online,Evening,4.2,24
+U0971,Anjali,28,Female,Thrissur,Malayalam,Graphic Design,Intermediate,English,Online,Evening,4.2,13
+U0972,Asha,25,Male,Kochi,Graphic Design,Malayalam,Advanced,English,Hybrid,Evening,4.5,7
+U0973,Dev,31,Female,Thiruvananthapuram,Yoga,Hindi,Advanced,Malayalam,Hybrid,Evening,3.8,4
+U0974,Priya,35,Male,Kollam,Hindi,Yoga,Advanced,Malayalam,Offline,Evening,4.9,17
+U0975,Abin,37,Female,Kannur,Photography,Java,Beginner,English,Online,Weekend,3.6,15
+U0976,Nikhil,37,Female,Kannur,Java,Photography,Intermediate,English,Offline,Weekend,4.8,6
+U0977,Meera,35,Male,Kochi,Tamil,AI Basics,Beginner,Tamil,Offline,Morning,4.5,4
+U0978,Naveen,35,Female,Kozhikode,AI Basics,Tamil,Beginner,Tamil,Hybrid,Morning,4.3,25
+U0979,Harsha,40,Female,Kochi,Photoshop,IoT,Beginner,Tamil,Hybrid,Evening,5.0,10
+U0980,Vishnu,32,Female,Thiruvananthapuram,IoT,Photoshop,Advanced,Tamil,Online,Evening,4.5,0
+U0981,Vivek,23,Female,Thrissur,Public Speaking,Spoken English,Advanced,English,Hybrid,Morning,4.2,12
+U0982,Rohit,20,Male,Thrissur,Spoken English,Public Speaking,Beginner,English,Hybrid,Morning,4.2,3
+U0983,Sanjay,23,Male,Thiruvananthapuram,Canva,AI Basics,Intermediate,Hindi,Offline,Evening,4.9,14
+U0984,Aarav,25,Male,Kochi,AI Basics,Canva,Advanced,Hindi,Hybrid,Evening,4.0,2
+U0985,Diya,33,Female,Thiruvananthapuram,Machine Learning,Public Speaking,Intermediate,Tamil,Offline,Afternoon,4.9,22
+U0986,Keerthana,24,Male,Kollam,Public Speaking,Machine Learning,Advanced,Tamil,Offline,Afternoon,3.7,8
+U0987,Rohit,24,Male,Thiruvananthapuram,Tamil,Malayalam,Advanced,Hindi,Online,Afternoon,4.6,4
+U0988,Nikhil,36,Male,Thrissur,Malayalam,Tamil,Advanced,Hindi,Offline,Afternoon,3.8,21
+U0989,Aarav,31,Male,Kochi,Python,Guitar,Intermediate,Tamil,Offline,Weekend,3.9,21
+U0990,Athira,32,Female,Kochi,Guitar,Python,Advanced,Tamil,Online,Weekend,4.8,7
+U0991,Akash,18,Female,Kollam,Java,PowerPoint,Intermediate,Hindi,Online,Weekend,4.8,25
+U0992,Aarav,25,Female,Thiruvananthapuram,PowerPoint,Java,Beginner,Hindi,Online,Weekend,3.7,9
+U0993,Akhil,31,Male,Thrissur,C,Digital Marketing,Advanced,English,Offline,Morning,4.8,7
+U0994,Sneha,33,Male,Kochi,Digital Marketing,C,Beginner,English,Offline,Morning,4.3,7
+U0995,Asha,32,Male,Thiruvananthapuram,C,Data Analysis,Beginner,Hindi,Online,Morning,4.1,22
+U0996,Rahul,22,Male,Kozhikode,Data Analysis,C,Beginner,Hindi,Offline,Morning,4.4,13
+U0997,Anu,30,Female,Thiruvananthapuram,C,SQL,Advanced,English,Offline,Morning,3.8,19
+U0998,Sreya,39,Male,Kozhikode,SQL,C,Intermediate,English,Offline,Morning,4.7,19
+U0999,Kiran,34,Female,Thrissur,Public Speaking,C++,Beginner,Tamil,Online,Morning,3.7,19
+U1000,Riya,20,Male,Thrissur,C++,Public Speaking,Beginner,Tamil,Hybrid,Morning,4.3,11
